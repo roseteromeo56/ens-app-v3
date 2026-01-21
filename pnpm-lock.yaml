@@ -485,7 +485,7 @@ importers:
         version: 5.0.1(stylelint@16.14.1(typescript@5.7.3))
       svgo:
         specifier: latest
-        version: 3.3.2
+        version: 4.0.0
       ts-node:
         specifier: ^10.9.1
         version: 10.9.2(@types/node@20.17.19)(typescript@5.7.3)
@@ -2217,8 +2217,8 @@ packages:
     resolution: {integrity: sha512-N08M56HdOgBfRKkrgCMZvQppkZGcArEop3kixNEtVbJKm6P9Cfg0YkI6X0s1g78sNrj2fWUwvJADdZuzJgFttA==}
     engines: {node: '>=16.0.0'}
 
-  '@metamask/utils@11.8.1':
-    resolution: {integrity: sha512-DIbsNUyqWLFgqJlZxi1OOCMYvI23GqFCvNJAtzv8/WXWzJfnJnvp1M24j7VvUe3URBi3S86UgQ7+7aWU9p/cnQ==}
+  '@metamask/utils@11.9.0':
+    resolution: {integrity: sha512-wRnoSDD9jTWOge/+reFviJQANhS+uy8Y+OEwRanp5mQeGTjBFmK1r2cTOnei2UCZRV1crXHzeJVSFEoDDcgRbA==}
     engines: {node: ^18.18 || ^20.14 || >=22}
 
   '@metamask/utils@5.0.2':
@@ -3053,265 +3053,265 @@ packages:
   '@socket.io/component-emitter@3.1.2':
     resolution: {integrity: sha512-9BCxFwvbGg/RsZK9tjXd8s4UcwR0MWeFQ1XEKIQVVvAGJyINdrqKMcTRyLoK8Rse1GjzLV9cwjWV1olXRWEXVA==}
 
-  '@socketregistry/aggregate-error@1.0.11':
-    resolution: {integrity: sha512-IyqSGNk450vq73LQk/zBSjYepwjObPH/aK0j2IsWaDhHNt1RsqUTYEoK5mJsJxydEMlsr275Knve0WUJXPdkbw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/aggregate-error@1.0.15':
+    resolution: {integrity: sha512-my1J2f4iN6CgZo231DEAMx3TMKx9ykj0QdVuFQTh+/OZWedXqLVdGkQwMyUddWCKEG/Zswq+c2IEEvWADYLmvA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array-buffer-byte-length@1.0.5':
-    resolution: {integrity: sha512-nHUtF1H43uc7NzT6Jy+QVeGtrcnI5nG80kqBXMS2vIIawQC8la5hAlviUKCdQtAdHo2duykmGEteQY6vw0CjkQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array-buffer-byte-length@1.0.7':
+    resolution: {integrity: sha512-kyHtxU8hrzPt9ruS4Pg/BLoSQrtUYK+5izlWmsrS8SHz1FOA11nwsKrTR4io573MJ4d7MTXwWTSrdqqZYDvw3g==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array-includes@1.0.5':
-    resolution: {integrity: sha512-z4g/g1t7wrRPQMGbbWGuoDZABiNtB7ALEHv4FPhKpSa+9Gmxj3Dls0RbsmJezBwZGhcQgpXrH7EblvdRDz02Mg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array-includes@1.0.9':
+    resolution: {integrity: sha512-zHEi6x6X3y6SLJebqF35ArIbue461teN6pmVD9xfg/UVNfDWj2X8bfIe2OyDLm0ypJtS7oVyeIQUNfsWlZm9lw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array.prototype.findlast@1.0.5':
-    resolution: {integrity: sha512-R2QBrCoCjNoVAXdu3taABt24axZvPZ17XjjasiprdsfVsOIc7mFbYpyp+g9pOurTfziBH2R3wIoVq7Qdau5Q7A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array.prototype.findlast@1.0.9':
+    resolution: {integrity: sha512-jLYny0cZl+uoQLl1NfNsPF3X1Fmp8erx6pKu4haYHvgQSbI4HaJ4K4+hilwpo1dIa89AbhtdOg1k7nl1sjkTcg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array.prototype.findlastindex@1.0.5':
-    resolution: {integrity: sha512-Qkz+/wRh4rqjWSM0JFxAzI64kQKqh+JpX60+Z5BYvgUSYUMKaOXvpJS7fNrTcmdNiLub/RGDSttnFy54fP/Hiw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array.prototype.findlastindex@1.0.9':
+    resolution: {integrity: sha512-O926AKxBTuO/csbBu8mvmsWceQYNyXWFWfYON2SKwqH24KSpuB7Cp9u8cmwkHntNtgg97LPQzykCgnrn5eXFlg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array.prototype.flat@1.0.5':
-    resolution: {integrity: sha512-IpWx6UPDJFIWJkASMTh+NfdWmjOFtx41g5KcfNqCKKkrwvM48KF8ujifIlWwF+hdZu402EM4OhkwY1SV3hrdkA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array.prototype.flat@1.0.9':
+    resolution: {integrity: sha512-5hliEBY9BujNpOVT8GjW7eP4ikKtrQLxSMnpYXn3dDaBgX4UarlWP1YTEu9gxs+idaL+/HcDhZnMYq4A1B/jlg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array.prototype.flatmap@1.0.5':
-    resolution: {integrity: sha512-grBCFWhMLGA8SUfI0rUjBzECcT4SPkKkSdjIzaAWRGqo1lF7AKL1Y9U3bL4bhr89vatgrisQ3YfuUQWG8x9Eyg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array.prototype.flatmap@1.0.9':
+    resolution: {integrity: sha512-ZTd9Itahi0ILwe1dWzYvfiY+yM83y5SI4B6jH7ZVdv6v7QGGKLQDYyPGEiSzkpYx5yjW5zSEvFwU1dZhDkF2zA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/array.prototype.tosorted@1.0.6':
-    resolution: {integrity: sha512-J0NhLxz9hnysmx7hKg+pOVCu/987V6GiH3N91fzSfQL7fb7kxfLK1pimmzLnOvbtP3+uLWiqim5Oi5nXkitRUQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/array.prototype.tosorted@1.0.10':
+    resolution: {integrity: sha512-wW7/WqOz6G6BELtIo+IdlczgIPCcbc6wbC3uCMAcx5HYaZ2u0lVYFgKdzWRvpu1n1iGqJ/ixk0e0P1g8iUWGHw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/arraybuffer.prototype.slice@1.0.5':
-    resolution: {integrity: sha512-Bu0p9gZKkPUhnZttJ3CYMSSO3yzP5xanQ9mHtu80+ETHU5z5FqiKa6gYHxkQgb7T/LyBfGGoUmMrKGvKhxiT/w==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/arraybuffer.prototype.slice@1.0.8':
+    resolution: {integrity: sha512-JS0wQv4rkqL7lhVZ+FHsHhEMubeWqYK4fdmVGYdQvA2qeCvC/+8pvmjBA1e26icZYSW9+c2F7rot5wlNSJDlMw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/available-typed-arrays@1.0.5':
-    resolution: {integrity: sha512-PJmQqWZ3Sf+Et7akfhcD5h1+RyLbsnclwNaHjwVkQQT85DJXRM+V4/e7n/wr+xqtRMOEpMWTTyhubR9VzCGSew==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/available-typed-arrays@1.0.8':
+    resolution: {integrity: sha512-cb6VSQ+iqGliVG2VAVL5AY02JVZnV8CQtBUTnBKqyX4CF0b2KHIrFUCK/+hFpp7xwdALsHzWOimzsZTWmd5Yog==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/define-properties@1.0.5':
-    resolution: {integrity: sha512-IMB5rE7tgw7+TbIz/2NGcZj9NeXNxisXWCxzjElklmSo1vuB536FLQjkXZ7Xbd8DVEXOiR9Lg4Hx+AJ1bUmeFw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/define-properties@1.0.8':
+    resolution: {integrity: sha512-3x3QGutEIx2aS510K0bg8+S5Aky3EmJo5+SXjhZK4QGT5C33azUEOsVfdxwaMTTm8sTC8/CpFTamTDaDm+FJgQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/es-define-property@1.0.5':
-    resolution: {integrity: sha512-zipl+Zs/75Fjt7vE3RqbbDNfdIFsvsmd2wLmwoxI1Z/ID28j5dp7ZzaMesQAQqK+zv24a4WTywQVg7f35E3rcw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/es-define-property@1.0.7':
+    resolution: {integrity: sha512-pCJr9kYvUKzIZQUbkSzHW/PlZ5cvm4DXmxFMBmGydScVKxri4/BBdh9ASW+38/82pdaE5lTK92AN+MYydJIQCw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/es-iterator-helpers@1.0.9':
-    resolution: {integrity: sha512-kuq0mJjNKMMM0/BhFJsRrTZ94eZEucRj13L+3kR8B14O1xQqMk5REwc/F4ySIe5zhhMpOUxB5NKo6pMIaZJF/A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/es-iterator-helpers@1.0.14':
+    resolution: {integrity: sha512-LJ5cpQ7d17y82xQEjwAAkwW8/MLDjzvRlibVC8D1fyQWxtT+jb1X+Ged97mT3F+YDXC55aPfDExNezbNharcsw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/es-set-tostringtag@1.0.6':
-    resolution: {integrity: sha512-M9OTaUKLECXCSYeKbBeYLqnwk2WUL63WqIXOm3hrxQAthgoFytacwqe8/83mwLW/2GgjizXg01y8VphBqS5obg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/es-set-tostringtag@1.0.10':
+    resolution: {integrity: sha512-btXmvw1JpA8WtSoXx9mTapo9NAyIDKRRzK84i48d8zc0X09M6ORfobVnHbgwhXf7CFhkRzhYrHG9dqbI9vpELQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/function-bind@1.0.5':
-    resolution: {integrity: sha512-G7Z7yVdwQmO5FzNFqdPp8ZvLm9zk5lq7t3r+2IOzBcQVx/qgjYuYPo0fE+kzvQ7u5ApMret2wDnKbCfp4cqnjg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/function-bind@1.0.7':
+    resolution: {integrity: sha512-i3Z9BcuHGaMGv8nbcAsVW1tWXxAyjiiBrN3XHUHXsrLvI5auMctY7xHeoBOEIS97xihAdACM/Q3S0h+dhMu7YA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/function.prototype.name@1.0.5':
-    resolution: {integrity: sha512-SoeiaypJYCiJju2eGH0EvW35u2yeuKJ/ll5ScmPR+cYTNEQYnlGPVnsDYIOQ/G/Zq5lvQRhmA6iCShUFskkWcw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/function.prototype.name@1.0.8':
+    resolution: {integrity: sha512-//OjZqCzl7E9hvZJpSbT9luS8fP4pHCR73+Gdsbu9qHi8DdcHiBRsYdOKdf/qbI85vtqwcd4/NacdHAM/ovesw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/get-symbol-description@1.0.5':
-    resolution: {integrity: sha512-G5ceeq3MgKe1/HZL5vc6u/0mSWIdMzce7DHrj8Iw7llEakt5wTksvJ9lhSOBNfpDfnfBrN9EtLLY0RMFNHbpIw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/get-symbol-description@1.0.7':
+    resolution: {integrity: sha512-JjagDVfBFgpTo1i1tRswdbB0oiBrDIKkdpVUHtE/HjLUPDb6WeSqkHoWkF4siPh8XMt2KcbT9Y8rjeej7v51rQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/globalthis@1.0.5':
-    resolution: {integrity: sha512-RY/OxMUrhuU9LO9To76SKwUz4mcdaSwG3rh/lpFN4azdL21XYxhAQ/hS5U+dZVI0ZVAk9AZWsciN8Djsz6LqeA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/globalthis@1.0.8':
+    resolution: {integrity: sha512-keylYAVfNG8oovtMwsaai129NlhO7NwytSnRVNqR91nqx0uhA+XuWCcFDxw22QJYT/7mlNrR1MdkKL2Ks6Rq3Q==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/gopd@1.0.5':
-    resolution: {integrity: sha512-lJKgypzRLEAonbhl+qk5WH/ILyZipz+8cGcgBjMdNGk5KJdxI+ixLwEpNlEAR5iiR0oOf3DqAcM2ZzuMBjK8ng==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/gopd@1.0.7':
+    resolution: {integrity: sha512-VK4NTuaf1FvxuhhyUacIXfD7cbb3daV+Uyj38hxXn75xEw7QhkOwKEUm+o3eXTqaPROOwighvVR3ezZA+pnonw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/has-property-descriptors@1.0.5':
-    resolution: {integrity: sha512-teGemiZKx3HI1fyCowXYsNhrDPoB45LktCH3BYWrzlvsEL3rT2iTFSc6JPJ4YuLtft1QRkiv/V/8bdGa3qX5Vw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/has-property-descriptors@1.0.7':
+    resolution: {integrity: sha512-8E96HOW1n9HQ1wwhqUytP0TtJEVjCs7LK94khsUAUTUcyj4JW99atzSiQiIfmuF6EjICYEL4nPoO3I9D1r1Q5w==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/has-proto@1.0.5':
-    resolution: {integrity: sha512-z1tmi3xBR/DY40I4Zw8eHCCekWa3OoM7VHeXgSas11vLYPPGstHRMivDOlLzTrggHrLVnbQ25Xpf43TEdM6n0Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/has-proto@1.0.7':
+    resolution: {integrity: sha512-MEUJCCL1GPTlAVMkybNNndZ78PinovAyyXYkhA/5APp1GHmcs7xPKRY5OWwNmsZXhEw5ebp2wCTtjkKLUUR+aA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/has-symbols@1.0.5':
-    resolution: {integrity: sha512-Vxaly8XG4byS5lSwuv/cOlbFpQINJu4Ce32Ui58rlv+3OL+Eu8EEBHVGR8a0AMr/bOG6fMOWhx5H3CAkxVTbsA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/has-symbols@1.0.7':
+    resolution: {integrity: sha512-wd2pR4Ju3nkHQCoy1jJ64zK0cMqA5wWYdngm1x+hH8dBmdd/ZeXPQhsp7fWamMhQWthFnSkY+VbK2ToDsaYqGQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/hasown@1.0.5':
-    resolution: {integrity: sha512-xknlSx99HYF6t4cRLVMg9iW1eR8kKG92m/Yz7Bo9pntIpvLlKs3Rm+eCwEzTjp+NZacGTxG0T2IP/vGwGD2d8Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/hasown@1.0.7':
+    resolution: {integrity: sha512-MZ5dyXOtiEc7q3801T+2EmKkxrd55BOSQnG8z/8/IkIJzDxqBxGGBKVyixqFm3W657TyUEBfIT9iWgSB6ipFsA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/indent-string@1.0.10':
-    resolution: {integrity: sha512-t3E86MlonYNppxaRlJmJjnY4CpIKKf9YNvC//q6cYyA6wDTgvGe/y1Bsj1zRDiurQG5uSclCkwEkLUKaoK+0PQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/indent-string@1.0.14':
+    resolution: {integrity: sha512-SCb2h+KkZppDEDyzZheazziUpJQVeCpEMQxSiTn4VMbVkGgvpNVAWQyx3IniSzwiSJpASmwTRTlhiYk6AR19bw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/internal-slot@1.0.5':
-    resolution: {integrity: sha512-Xv3M3epptcSCwwRIKHHbLdl9FlQA6qoAnW1Cm5JNBxyLdGs6B5nF/dmhHjf+82BFJEoTAsIGwchMvtNNuJFFGg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/internal-slot@1.0.8':
+    resolution: {integrity: sha512-d/Bwf/dARv4GBbPne58ezjASu7jmWt/i63f07mbbxcW9F84CNx2/ELlgj+X9YiyMAL8SBs+dzij2yaQEAvEdDA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-arguments@1.0.6':
-    resolution: {integrity: sha512-VAxz2C6KO6GKjvNnhWfqU3UzFq4wmr4hoafil4DICsqP/0P8hcBzkjpvGE/RkK7nJDkFIZgo1aUzS1S9qAS9gA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-arguments@1.0.10':
+    resolution: {integrity: sha512-vpwwSbV0LL25GaNBCAprUzUW6dg7mNU2d8CsozEpoabcRo2jAsHLGKXQuJxf+4zldt0UZSag7GzfaLQmxTctcw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-array-buffer@1.0.6':
-    resolution: {integrity: sha512-qAlAJYlInVS26BHdi/e9laPdRepu55HBLwyfxiHcE52xhH7xXoll4dmxsVJPTIke5EzjeYL1ID3hqlc8YM8V7w==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-array-buffer@1.0.10':
+    resolution: {integrity: sha512-/c88F7+Fih6IQ5lvTJR2vL6n3sJPUl8mXEZZQx3VIuqu3Xj6xSSTM7UYb235OcP8eghKwTmc5xGp7AL3IuFMzw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-core-module@1.0.7':
-    resolution: {integrity: sha512-aQ0Egq4PesHYPv+GI78RiDKdHvgkjOZGsOopWSQNaR9C4fZuH80YryEv9zJoX+9UmcNLYUACFjDwt71Ena7r8A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-core-module@1.0.11':
+    resolution: {integrity: sha512-obrSzvIfJXKQthA3u1RmkjLHuA1QDtLm0SbXJxGs2CQfXZY9Eql5/pBGSV1hIUWKcpdcNphFgnJMC5BITcTXsQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-date-object@1.0.6':
-    resolution: {integrity: sha512-4aR1vaKRCgEu3hOvk2Qi4ZKMylZNLuaHczNnUy62bij/AfVN0sxve0zJfjgkrSV5Mb+5PrMlac5+K6uSYnaiNQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-date-object@1.0.10':
+    resolution: {integrity: sha512-j/3vQ6qQnROfeM/p2Oto0xlYIQSQqtpNgVtHM+rvJldKe1TD7HSj134PUtiPMWSWyj095BS/o1vqbE6+SI9How==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-generator-function@1.0.6':
-    resolution: {integrity: sha512-6z9FxhxpClHmUFPsxpreBxA5Qp5ae2sSxrv9Pa7vi3CCl5Stf/yXQpH+0cHr0DGH9ptVFiUwXZstUMgiVS+MjQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-generator-function@1.0.10':
+    resolution: {integrity: sha512-cvsJKS1X87HYytlHr/emRFhOQGo7CQWZEWQkDmYeMfDcA2lO7eZQisvny6ddzSHKq89aS4PBKT91kFqvlmJqQQ==}
+    engines: {node: '>=18'}
 
   '@socketregistry/is-interactive@1.0.6':
     resolution: {integrity: sha512-KbKE6j98nf+cZum6lAO5ubP/Sid5tbbl3S7XYb8VFu3RaHy9I1uIZ/dcM932xYk3+TQuoXgV3pzqAM2ekqA1tA==}
     engines: {node: '>=18'}
 
-  '@socketregistry/is-regex@1.0.6':
-    resolution: {integrity: sha512-opWRlhI6LgSwaJ+999BIXLCUKsHnecNo1Fbhxj2lkRoqgcRuZMDnF63bD0aGoglumM5rNSUKvWufNGxfzBwkWA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-regex@1.0.10':
+    resolution: {integrity: sha512-psLN5Yt6/VXUBwEzSuRtuD5/YGV7o9NPYd2X0wI+SuQdsiNrUhpvwUvtcRrWp8ilhmD+Mu4mqDHLIvWo4VDOMQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-shared-array-buffer@1.0.6':
-    resolution: {integrity: sha512-Tb5Ifu6oUdhdZdcldKmqbbgxBjWStqHYaeuPB7Pxfi+rdPnb+qZZS6AG4go6EatEstbZnmyolfeyRKwGwj5THw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-shared-array-buffer@1.0.10':
+    resolution: {integrity: sha512-4kKrlr+AZS/EBc0IENCl97X2lQmII9keSNFmi1E7N35Nzgcqc2s9cDotYgB8EW2QcXtzUVOtSEwlVoDToR8h/Q==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-string@1.0.6':
-    resolution: {integrity: sha512-n50nYAsBvXF38qPxa34/Umzu5DY8UShN3y8xvriGeNwaQxJHr986/He57zynkfK31UhHKHxMcIFPNjj7mNyEnQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-string@1.0.12':
+    resolution: {integrity: sha512-fDLqmCyyarxdXbwJ0gP+NHjOF49piqlq07JXMPDSFYhigfT/6OzzgRD+E4AdL5kj0vFSgJL6h/WjRfKsJaPmHQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-symbol@1.0.6':
-    resolution: {integrity: sha512-6/h8yMK3YVNOUp0g763hdusnYeMOKYPUE4whgcvq/GDTkerXrq7r4UEf5JQzB5flDTCZtIz23AYTv/h7+Xz+/g==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-symbol@1.0.12':
+    resolution: {integrity: sha512-9JVuTYSjhx5H0P/qvk6dm9rWtg3ce4CCuGB2NnhNFkKX9a0zwMGR8simkKubDy5W9csQGrGoa69dHy7hZ6NjaQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-typed-array@1.0.6':
-    resolution: {integrity: sha512-9CGE6zCczInGv1w+eOT6eevcw1LRXsfNEO2kGkdM9RXUInk9iprwqOtu++h3nULaHgegFI0xEK8fE2W6vHZHjA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-typed-array@1.0.12':
+    resolution: {integrity: sha512-IGU9k0CJAueU+Y8bcFT5HJ5inh+XmTe89scuaHAs3WLFpJgrCn2FCaYZ98S1iBltH0SRIupDiiZQyVC5C/YDjA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-unicode-supported@1.0.0':
-    resolution: {integrity: sha512-7Hl1GWU7wiJxODK4VmqwuIc1swvVY39ILoFfPZQP4JSNICyR/4VYdIUFw1vc+BA/aXwLJZISt4MVreLxnqBbdg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-unicode-supported@1.0.5':
+    resolution: {integrity: sha512-l3wz0cknjyGlI2iCyZxp50FJhtUFXkdZR6CfUU7OfNxE7I4CRBdsvORLgV+JPwqQQErRO/CZgKsbDHefd3puYA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/is-weakref@1.0.5':
-    resolution: {integrity: sha512-i+diJaTYee1q6RfTzrc9jnV/nM0lqSmi6QL04+ulZ3wjp0FmyIUUir+pJb5lEj/7N9BhQ9TTq56UL3/hBEE8VQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/is-weakref@1.0.8':
+    resolution: {integrity: sha512-sDO5q5hIZ212VI8GB/7ePnkTfDQ9/53a3VF4lBPb3ZLLy9LtRyi4mcymYoXfUdqa1OwpK4ArpRY4nCZD0S+GNg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/isarray@1.0.5':
-    resolution: {integrity: sha512-ShtX9jbnTiEl2sXAjCS02ihrjiEStKleX4NgOxUu977jX/PRSS7sGuM2ssN3vCeuzmLphzeCeIXExxR5dcw8bA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/isarray@1.0.8':
+    resolution: {integrity: sha512-DM81ydAjO2GJKkNf2Vn17InJ37sEYLK1YyhxpDX16OdbOpYlsDIw8QyeFEUZtc7GqsQXbcPKJmz3j/2qS+BhKQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object-assign@1.0.3':
-    resolution: {integrity: sha512-VFUMXtgcqb+A05izEwgTepGsf0rm9UMPTa2KyF5xPiaSuj6nhpZ8+aFQKjJ3NsoZaIGzS2hJfxeVuLV/Zt4eag==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object-assign@1.0.5':
+    resolution: {integrity: sha512-Lyh3XnghYXhoq4RzMj++W71bTZdejE87hLnSAFXJxiy/VBc1Cyq5jBnVOu9Y9GWmE+BLzxVGQdtDlssb7PqrnQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object-keys@1.0.5':
-    resolution: {integrity: sha512-WnFTS0sWPWutYLuMENJTKBYYX6LYTDfG48V3KdXzNZvwKhl5i3abKKpw3M8NowgrUwfuPSXxwHUZSWEwrxqtbw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object-keys@1.0.8':
+    resolution: {integrity: sha512-ywi9QpIRLFCS9P11TWKibA5tq8f0B3AOXPVkL1cSchaUQoXrs0Ha99lEPthjYH9k3BDOwCHuMMyejiyqhSdWvw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object.assign@1.0.5':
-    resolution: {integrity: sha512-fqgSPOiGnHPhKrruvUW61GJzehuguUE01MgaadTOXouRx5TVqsNRGd5oLNhrFNC+HBPacdnposy8xmt1Mh+H7A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object.assign@1.0.8':
+    resolution: {integrity: sha512-98+ho3VAnklscf9WVXseef1/Ann9eX2H6vzgQ3wYzqfuonAcu3Wm/GimmNPHQ/fRRgDaSYJns//tf/kFa8U7IQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object.entries@1.0.5':
-    resolution: {integrity: sha512-Qwiwf6Ure9TJdv8bJ8IBuFp+EIO8cyKAu5tk8jTXdAr7/3E6E5dU7D6R+Zc8MpasoDdmZt5V5QuW7wtmEXBwDw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object.entries@1.0.8':
+    resolution: {integrity: sha512-QBvMCik8ORJ4xPBLwSI1ypwLLhZhi9qRdD7tC81SeAjl2oQh2dGBlnmhawqPy5SSmwbdMs+bAwsvQR+5asn0gw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object.fromentries@1.0.5':
-    resolution: {integrity: sha512-yA35Gkn9cbUyMI4FqEoBqqJCo/dUDY6w6j520WjLitv7nPnQ3KDUzMhprl33N7DTKxq8sYCKNGm/xi0nceb1rA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object.fromentries@1.0.8':
+    resolution: {integrity: sha512-5rq3kzExWN15Fy7zln8s0bmlClp2MLpG72M3bJwwV0wYOhBC0c01POMyrwGY4XQ6R8ekCq4A36hAwx6C5YhEwg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object.groupby@1.0.6':
-    resolution: {integrity: sha512-t720Lcb3E3JGFIpoUkpOupmKkmyB5+PtxpQVVuXVXSmbfuGB4ONhQSlCf1n5Y9AwGu4ADSmQZk1md6MOBq0t1A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object.groupby@1.0.9':
+    resolution: {integrity: sha512-Yn7rfwR+qDjYMijoNsZmlOKKwbBNcYR67gITXUoqI7cTN0MXBsnYdA0NQOVs4o514MHkxJxaYO7iCjlBHTg/pw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/object.values@1.0.5':
-    resolution: {integrity: sha512-njASaiJhnm+r/9zhLZZf0rAlNYcOKE5cq47p7fBsW37MlKhuHNCG6HTk7BVqywHhN8CJNQtRd6xYltSiYcoUdw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/object.values@1.0.8':
+    resolution: {integrity: sha512-q46x26lkGnQC8VMiP2tyW6YcIyYblATlCr0/uLEc5jbbeDQfHS0GtpoHqfL1juLk+RfmJXqyOgjSQsn8EQxeUA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/path-parse@1.0.5':
-    resolution: {integrity: sha512-e4rAhNrpgWJGGBU3VzmKCV1OBbEiT7h+EwzEd1iwM2rY8C9VrBs0FFFvfOxPkkWm6BXzilpnMgIjqtoBw/dVUg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/path-parse@1.0.8':
+    resolution: {integrity: sha512-9dcT4Vj4TY6BsU7hd3sEemoaA8OEGUutK2ufNdP+qKOljcH0xy/5+WnbEZ1RLEJcSKDnpZ3T47mVdq/ZWiGNxw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/querystringify@1.0.6':
-    resolution: {integrity: sha512-wVesYoy4A686ePAdfm/oBKcJSPl4LU74ZVQgZKdffDZBnZ5z44LRDzXPN7H0QmTG/v/881fcNl8v/VzF+54Zlw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/querystringify@1.0.10':
+    resolution: {integrity: sha512-bxR2vAnwB7USgTitnUSi+l7trClfcpT0XeaS76Rlg145l8PEEKfR8gfn71CjvjRih7CER/JBEIoOXVKmEKI0KQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/regexp.prototype.flags@1.0.5':
-    resolution: {integrity: sha512-N8O5vDqix1PLAmJwnvbZzHCzD+912YzKm0YzB6+7GZCp7uL3yagY/aK9sR2Dsk2ASUC+BR1F+ZILbAMvRcsP0Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/regexp.prototype.flags@1.0.8':
+    resolution: {integrity: sha512-h1BhmNFsu3SLULRvjUA7aQVUB2dycJMNAxuYSO2RtTcDY6oAvJHA5J/XFW58uFmfD5xOg8mJ9p1qVSErKyb7zQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/safe-array-concat@1.0.5':
-    resolution: {integrity: sha512-cGbuGDw5S3sHnFC5jDQVOoayEqyPT68wTICM6flA/y7woSkjw+ReJ985s57tOZy0isz6HiOOAtX7oveg0gJJWw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/safe-array-concat@1.0.8':
+    resolution: {integrity: sha512-tMk3/IOev2YSawp5ZAlg4qAp2d6fmXVuPH9BQ1uAPYrafX9UhRPul7n7uisLI16zxpZ6Paej2jP39aecs6lX2A==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/safe-buffer@1.0.6':
-    resolution: {integrity: sha512-1ZTYFb9BVgK2a/uYIR6la7dJOnC2ccvqbxNsvq91SCMAdMKJe9gnPHM8E36GoVgL7SUE90+cUbzPHAYzouz6UQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/safe-buffer@1.0.9':
+    resolution: {integrity: sha512-eV4uYchI1+vQeKpFG+aBlhVQ/AaaPTTXaan+ReiNn/izy8U9hfT4WC8l4g8o8BC3zaeNnsNVxec14hJH/y2y3g==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/safe-regex-test@1.0.5':
-    resolution: {integrity: sha512-Kgl0XZQLtsEqEOI8SiKPkzwJ6/ZnQniWVtt4hlm+YregIdRz8glqqC152xbPJIKJHYrN5ybr8W3hZN7wgsdnIQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/safe-regex-test@1.0.8':
+    resolution: {integrity: sha512-nInwjARkeslJhSmIGoaaPzfui8uSTFDTSvXONCASZofdWUeQL4JQUXRF9clOd2dCeW6gS7pCWZ5N/3Gfzof9Jw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/safer-buffer@1.0.7':
-    resolution: {integrity: sha512-1zmje9QQgkndL9iPD3cupQk0HqY9axZwSipTZ1NNPh+aED46oVxdzkUIMBu62YlB0M1gljIiW53/F7E1qNQL8A==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/safer-buffer@1.0.10':
+    resolution: {integrity: sha512-jbEY37bJn51W9pP1pXxIoGcQbmbi9EQDtnXfWBjGLNvKC1iEyNLOaGm8ee7dN7Z+KgJdQbrrDjjD3HbGeOFC4A==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/set-function-length@1.0.6':
-    resolution: {integrity: sha512-G0Cf60NR1/+LELk3k9rXG5+DVCMvuNJWX8fjXnQDbyFiHzTS70dsXMgeiQda0tusl8KH1f+cgCPNaeosRyQlwA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/set-function-length@1.0.10':
+    resolution: {integrity: sha512-tmjJ3KoSKvu7jVmSi/75fhIyP9Nom6e/0qSCZ/ZoV7IqmkYTQt61BZgAI4PouF5pv3LjNPfAQa4ek+jnUOWfoA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/side-channel@1.0.7':
-    resolution: {integrity: sha512-2xpzfWd87YtHf2dBxrKDEnQFx2FW2qvuf4UvJItc7/RB138HIYbkhiEDXOiDLuHGrLT1opJbmUaNHlTqK/H41Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/side-channel@1.0.10':
+    resolution: {integrity: sha512-nqm2QgbXHldY6DgIBap3i1MlQms+eP7zIC0vPuyy9FmxF62ITa80hjj/3w6zH7DCxV4nQBcJsz3CaGNulQAP7g==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/string.prototype.matchall@1.0.5':
-    resolution: {integrity: sha512-C0QWN2w8elid6VuIAcU3+fFaNZg6RHPfe8/8C6XukV3d0ZQU2I6za8afb2nOQq3Pknx3F/N+xZXJUPHvucGgLw==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/string.prototype.matchall@1.0.8':
+    resolution: {integrity: sha512-etMBRcRDKo3zpzJvzWwkYPPVLI4VBn4pD3vumdD37a9OY3twkM98w0dXNUHNakJm+2ALuwFNcyRYcbKuiUa06g==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/string.prototype.trim@1.0.5':
-    resolution: {integrity: sha512-rwXRZVkl7bn1hkMdK3VHuj3VYKsyJi8APB6HCjAZ3M+1fVLIBpYmOIZxkr8fMC0kJmBVRV5u7O+DMW9ZcPSpnQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/string.prototype.trim@1.0.8':
+    resolution: {integrity: sha512-bTTsW6BFRj5cyI8+eQ4rax4XlTPLyRZDqv2hixFmhqE2IyMBxFx8rOYk1z1yetfrIq6lr6hERYtNQlrbiCnQZA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/string.prototype.trimend@1.0.5':
-    resolution: {integrity: sha512-cbyNEn8sqHz5VMVgeD6lqFEFeiwy8p66jmWr+sv2V0P3fnJK++pyshv6xcsQvjcxsnrUtXm2KBH6yqEiu4oDrA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/string.prototype.trimend@1.0.8':
+    resolution: {integrity: sha512-8xMCs1B03FlNmi6Ac1yPk9O2V77xs7Ax+lPXhRjNHNLcZ16Kx7hu5S6OIHWjzDQTLx0KQ9hge01cK8qAG6N92A==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/string.prototype.trimstart@1.0.5':
-    resolution: {integrity: sha512-i8Qz5uvdmzSrgOm7fo27wMhiQy5fNMvj0jcW0GZIyybuVyhzDhlm9T2DofxzZwA0OTs3erSBP9elYlzN0O4AdA==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/string.prototype.trimstart@1.0.8':
+    resolution: {integrity: sha512-jTVBK2iX6DTTv7OLRbv+uHzTaomYuUQBUnutX/W65+xmF+Q5Bn1ZQgJKq8bmPh5YRcdqWZ6gMY4XpNyIVze4BA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/typed-array-buffer@1.0.5':
-    resolution: {integrity: sha512-UuSwBGTCkFH3prraPnJrhaNsSLY8giXbsQMLMGcz8eCyNBkUg/C73p7tzMKmlk55mtS7BpCBU/O48ogTU1QvhQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/typed-array-buffer@1.0.7':
+    resolution: {integrity: sha512-QPC6DNs3VWfjY42liOu00qfQtV4SuM79hD2g/kH4cZGKpD9nS4Kvdyu5ozOLi5lk3D3gN5c9kSMv9WhwppkzFQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/typed-array-byte-length@1.0.5':
-    resolution: {integrity: sha512-+fKTzUzOMM+G7yw5ApIq3KpsFbymqzRSVATeRpJhveiXGNuSy/y46HGQ478DHB3r7RQ6h8PT/J83jEyufSaR/Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/typed-array-byte-length@1.0.7':
+    resolution: {integrity: sha512-jf6OxQP/0bh96vHT24jupdF2WdAxzs6lPDrPH90ckGmglwjnT8+5T7mbAXJO2qiZbZYAqTGrjhn436xDUJtJCA==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/typed-array-byte-offset@1.0.5':
-    resolution: {integrity: sha512-gqNiJ6KyFIsrrbHPPpmoW98QqdHjdwyHjHjfA5aqlWMD9pD+U337m8fAuyUmqwCBVlVsrpDTS9Kk5FmdzaIVLQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/typed-array-byte-offset@1.0.7':
+    resolution: {integrity: sha512-18arrD/zB6K+VyY2qzypWQUvkJj90EnbqQ1FcXlVMh7ZXQqzRLbPqN7Ujlbwo1JgYnX1I0CfrKHTFDns0j7fmQ==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/typed-array-length@1.0.5':
-    resolution: {integrity: sha512-1BbchbBzZWeT9XKpus2H573eeBHtwI8ABd9AsKEh0gT+FPQD5Wx3vTvh3JUxxtCIJas2o8k6tH82xXN6TFQj7Q==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/typed-array-length@1.0.8':
+    resolution: {integrity: sha512-TsXSuLhEc54JqqJM/HpHIDzfDAcoKHbGGTWFWXTyIIMvXmY7s/dNBvHDkjDRqNml7BnsD7Q4ngzZ/AWo7BFOgg==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/unbox-primitive@1.0.5':
-    resolution: {integrity: sha512-HTlrRFdxTArSZ0e8BCNBWRKYypSx26Cp3m77/I0L6wH3zypkd04jWfS6LbtqiCzM+ni40ISZULRf/8vaqShCfg==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/unbox-primitive@1.0.9':
+    resolution: {integrity: sha512-IFwOkcCGfvWBOLY2+jG2CwNtsyy8aXAIGysSwJ4wJlUGguprSzoVwerBgAX+WSimILpL5VAv3LHZRpRK0yC1Nw==}
+    engines: {node: '>=18'}
 
-  '@socketregistry/which-typed-array@1.0.5':
-    resolution: {integrity: sha512-ErJqzcM65dVIo9O1d3PcMXc4Vk+5PfdbmF2dfr1GdcULepv0+g2wcLcQ0CF3eNqAf7tGyOPgkYrQifBG7qhseQ==}
-    engines: {node: '>=18.20.4'}
+  '@socketregistry/which-typed-array@1.0.9':
+    resolution: {integrity: sha512-SHikmWH1JumHKinsPLg0/kg/qKNNQH4fdYe/dd4mZ2NHP5wWGDcZyNCS7KaTnKWFi3/XZOR1iLYzo0I4QnHOQw==}
+    engines: {node: '>=18'}
 
   '@solana-program/compute-budget@0.8.0':
     resolution: {integrity: sha512-qPKxdxaEsFxebZ4K5RPuy7VQIm/tfJLa1+Nlt3KNA8EYQkz9Xm8htdoEaXVrer9kpgzzp9R3I3Bh6omwCM06tQ==}
@@ -4202,6 +4202,7 @@ packages:
 
   '@walletconnect/ethereum-provider@2.11.1':
     resolution: {integrity: sha512-UfQH0ho24aa2M1xYmanbJv2ggQPebKmQytp2j20QEvURJ2R0v7YKWZ+0PfwOs6o6cuGw6gGxy/0WQXQRZSAsfg==}
+    deprecated: 'Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases'
 
   '@walletconnect/events@1.0.1':
     resolution: {integrity: sha512-NPTqaoi0oPBVNuLv7qPaJazmGHs5JGyO8eEAk5VGKmJzDR7AHzD4k6ilox5kxk1iwiOnFopBOOMLs86Oa76HpQ==}
@@ -4255,6 +4256,7 @@ packages:
 
   '@walletconnect/modal@2.6.2':
     resolution: {integrity: sha512-eFopgKi8AjKf/0U4SemvcYw9zlLpx9njVN8sf6DAkowC2Md0gPU/UNEbH1Wwj407pEKnEds98pKWib1NN1ACoA==}
+    deprecated: Please follow the migration guide on https://docs.reown.com/appkit/upgrade/wcm
 
   '@walletconnect/relay-api@1.0.11':
     resolution: {integrity: sha512-tLPErkze/HmC9aCmdZOhtVmYZq1wKfWTJtygQHoWtgg722Jd4homo54Cs4ak2RUFUZIGO2RsOpIcWipaua5D5Q==}
@@ -4267,10 +4269,11 @@ packages:
 
   '@walletconnect/sign-client@2.11.1':
     resolution: {integrity: sha512-s3oKSx6/F5X2WmkV1jfJImBFACf9Km5HpTb+n5q+mobJVpUQw/clvoVyIrNNppLhm1V1S/ylHXh0qCrDppDpCA==}
-    deprecated: Reliability and performance greatly improved - please see https://github.com/WalletConnect/walletconnect-monorepo/releases
+    deprecated: 'Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases'
 
   '@walletconnect/sign-client@2.21.8':
     resolution: {integrity: sha512-lTcUbMjQ0YUZ5wzCLhpBeS9OkWYgLLly6BddEp2+pm4QxiwCCU2Nao0nBJXgzKbZYQOgrEGqtdm/7ze67gjzRA==}
+    deprecated: 'Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases'
 
   '@walletconnect/time@1.0.2':
     resolution: {integrity: sha512-uzdd9woDcJ1AaBZRhqy5rNC9laqWGErfc4dxA9a87mPdKOgWMD85mcFo9dIYIts/Jwocfwn07EC6EzclKubk/g==}
@@ -4283,9 +4286,11 @@ packages:
 
   '@walletconnect/universal-provider@2.11.1':
     resolution: {integrity: sha512-BJvPYByIfbBYF4x8mqDV79ebQX0tD54pp8itsqrHWn0qKZeJyIH8sQ69yY0GnbJrzoFS3ZLULdC0yDxWDeuRGw==}
+    deprecated: 'Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases'
 
   '@walletconnect/universal-provider@2.21.8':
     resolution: {integrity: sha512-Nc1Z6VXnya152yucNDPnlTkrhG289tCUfcjiWqDmwNYzFSfdT5oJQHlnffQXlvoks90kn5Ru8Rnwag2CH1YOVQ==}
+    deprecated: 'Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases'
 
   '@walletconnect/utils@2.11.1':
     resolution: {integrity: sha512-wRFDHN86dZ05mCET1H3912odIeQa8j7cZKxl1FlWRpV2YsILj9HCYSX6Uq2brwO02Kv2vryke44G1r8XI/LViA==}
@@ -4597,8 +4602,8 @@ packages:
   blakejs@1.2.1:
     resolution: {integrity: sha512-QXUSXI3QVc/gJME0dBpXrag1kbzOqCjCX8/b54ntNyW6sjtoqxqRk3LTmXzaJoh71zMsDCjM+47jS7XiwN/+fQ==}
 
-  bn.js@5.2.1:
-    resolution: {integrity: sha512-eXRvHzWyYPBuB4NBy0cmYQjGitUrtqwbvlzP3G6VFnNRbsZQIxQ10PbKKHt8gZ/HW/D/747aDl+QkDqg3KQLMQ==}
+  bn.js@5.2.2:
+    resolution: {integrity: sha512-v2YAxEmKaBLahNwE1mjp4WON6huMNeuDvagFZW+ASCuA/ku0bXR9hSMw0XpiqMoA3+rmnyck/tPRSFQkoC9Cuw==}
 
   body-scroll-lock@3.1.5:
     resolution: {integrity: sha512-Yi1Xaml0EvNA0OYWxXiYNqY24AfWkbA6w5vxE7GWxtKfzIbZM+Qw+aSmkgsbWzbHiy/RCSkUZBplVxTA+E4jJg==}
@@ -4854,8 +4859,16 @@ packages:
   command-exists@1.2.9:
     resolution: {integrity: sha512-LTQ/SGc+s0Xc0Fu5WaKnR0YiygZkm9eKFvyS+fRsU7/ZWFF8ykFM6Pc9aCVf1+xasOOZpO3BAVgVrKvsqKHV7w==}
 
+  commander@11.1.0:
+    resolution: {integrity: sha512-yPVavfyCcRhmorC7rWlkHn15b4wDVgVmBA7kV4QVBsF7kv/9TKJAbAXVTxvTnwP8HHKjRCJDClKbciiYS7p0DQ==}
+    engines: {node: '>=16'}
+
   commander@14.0.0:
     resolution: {integrity: sha512-2uM9rYjPvyq39NwLRqaiLtWHyDC1FvryJDa2ATTVims5YAS4PupsEQsDvP14FqhFr0P49CYDugi59xaxJlTXRA==}
+    engines: {node: '>=20'}
+
+  commander@14.0.2:
+    resolution: {integrity: sha512-TywoWNNRbhoD0BXs1P3ZEScW8W5iKrnbithIl0YH+uCmBd0QpPOA8yc82DS3BIE5Ma6FnBVUsJ7wVUDz4dvOWQ==}
     engines: {node: '>=20'}
 
   commander@4.1.1:
@@ -5624,6 +5637,9 @@ packages:
   eventemitter3@5.0.1:
     resolution: {integrity: sha512-GWkBvjiSZK87ELrYOSESUYeVIc9mvLLf/nXalMOS5dYrgZq9o5OVkbZAVM06CVxYsCwH9BDZFPlQTlPA1j4ahA==}
 
+  eventemitter3@5.0.4:
+    resolution: {integrity: sha512-mlsTRyGaPBjPedk6Bvw+aqbsXDtoAyAzm5MO7JgU+yVRyMQ5O8bD4Kcci7BS85f93veegeCPkL8R4GLClnjLFw==}
+
   events@3.3.0:
     resolution: {integrity: sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q==}
     engines: {node: '>=0.8.x'}
@@ -6275,8 +6291,8 @@ packages:
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
 
-  js-yaml@4.1.0:
-    resolution: {integrity: sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==}
+  js-yaml@4.1.1:
+    resolution: {integrity: sha512-qQKT4zQxXl8lLwBtHMWwaTcGfFOZviOJet3Oy/xmGk2gZH677CJM9EvtfdSkgWcATZhj/55JZ0rmy3myCT5lsA==}
     hasBin: true
 
   jsdom@24.1.3:
@@ -6697,6 +6713,7 @@ packages:
   next@13.5.8:
     resolution: {integrity: sha512-VlR7FaXpSibCs7ujOqStaDFTGSdX/NvWgLDcd47oiHUe8i63ZtNkX9intgcYAu/MxpaeEGinHaMB5mwxuzglKw==}
     engines: {node: '>=16.14.0'}
+    deprecated: This version has a security vulnerability. Please upgrade to a patched version. See https://nextjs.org/blog/security-update-2025-12-11 for more details.
     hasBin: true
     peerDependencies:
       '@opentelemetry/api': ^1.1.0
@@ -6721,6 +6738,7 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
+    deprecated: Use your platform's native DOMException instead
 
   node-fetch-native@1.6.6:
     resolution: {integrity: sha512-8Mc2HhqPdlIfedsuZoc3yioPuzp6b+L5jRCRY1QzuWZh2EGJVQrGppC6V6cF0bLdbW0+O2YpqCA25aF/1lvipQ==}
@@ -7096,6 +7114,9 @@ packages:
 
   preact@10.26.2:
     resolution: {integrity: sha512-0gNmv4qpS9HaN3+40CLBAnKe0ZfyE4ZWo5xKlC1rVrr0ckkEvJvAQqKaHANdFKsGstoxrY4AItZ7kZSGVoVjgg==}
+
+  preact@10.28.2:
+    resolution: {integrity: sha512-lbteaWGzGHdlIuiJ0l2Jq454m6kcpI1zNje6d8MlGAFlYvP2GO4ibnat7P74Esfz4sPTdM6UxtTwh/d3pwM9JA==}
 
   prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
@@ -7507,6 +7528,10 @@ packages:
   sax@1.4.1:
     resolution: {integrity: sha512-+aWOz7yVScEGoKNd4PA10LZ8sk0A/z5+nXQG5giUO5rprX9jgYsTdov9qCchZiPIZezbZH+jRut8nPodFAX4Jg==}
 
+  sax@1.4.4:
+    resolution: {integrity: sha512-1n3r/tGXO6b6VXMdFT54SHzT9ytu9yr7TaELowdYpMqY/Ao7EnlQGmAQ1+RatX7Tkkdm6hONI2owqNx2aZj5Sw==}
+    engines: {node: '>=11.0.0'}
+
   saxes@6.0.0:
     resolution: {integrity: sha512-xAg7SOnEhrm5zI3puOOKyy1OMcMlIJZYNJY7xLBwSze0UjhPLnWfj2GF2EpT0jmzaJKIWKHLsaSSajf35bcYnA==}
     engines: {node: '>=v12.22.7'}
@@ -7574,6 +7599,11 @@ packages:
     resolution: {integrity: sha512-QMEp5B7cftE7APOjk5Y6xgrbWu+WkLVQwk8JNjZ8nKRciZaByEW6MubieAiToS7+dwvrjGhH8jRXz3MVd0AYqQ==}
     hasBin: true
 
+  sha.js@2.4.12:
+    resolution: {integrity: sha512-8LzC5+bvI45BjpfXU8V5fdU2mfeKiQe1D1gIMn7XUlF3OTUrpdJpPPH4EMAnF0DsHHdSZqCdSss5qCmJKuiO3w==}
+    engines: {node: '>= 0.10'}
+    hasBin: true
+
   shallowequal@1.1.0:
     resolution: {integrity: sha512-y0m1JoUZSlPAjXVtPPW70aZWfIL/dSP7AFkRnniLCrK/8MDKog3TySTBmckD+RObVxH0v4Tox67+F14PdED2oQ==}
 
@@ -7589,8 +7619,8 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  shell-quote@1.8.2:
-    resolution: {integrity: sha512-AzqKpGKjrj7EM6rKVQEPpB288oCfnrEIuyoT9cyF4nmGa7V8Zk6f7RRqYisX8X9m+Q7bd632aZW4ky7EhbQztA==}
+  shell-quote@1.8.3:
+    resolution: {integrity: sha512-ObmnIF4hXNg1BqhnHmgbDETF8dLPCggZWBjkQfhZpbszZnYur5DUljTcCHii5LC3J5E0yeO/1LIMyH+UvHQgyw==}
     engines: {node: '>= 0.4'}
 
   siginfo@2.0.0:
@@ -7905,6 +7935,11 @@ packages:
     engines: {node: '>=14.0.0'}
     hasBin: true
 
+  svgo@4.0.0:
+    resolution: {integrity: sha512-VvrHQ+9uniE+Mvx3+C9IEe/lWasXCU0nXMY2kZeLrHNICuRiC8uMPyM14UEaMOFA5mhyQqEkB02VoQ16n3DLaw==}
+    engines: {node: '>=16'}
+    hasBin: true
+
   symbol-tree@3.2.4:
     resolution: {integrity: sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==}
 
@@ -8023,6 +8058,10 @@ packages:
   tmp@0.0.33:
     resolution: {integrity: sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw==}
     engines: {node: '>=0.6.0'}
+
+  to-buffer@1.2.2:
+    resolution: {integrity: sha512-db0E3UJjcFhpDhAF4tLo03oli3pwl3dbnzXOUIlRKrp+ldk/VUxzpWYZENsw2SZiuBjHAk7DfB0VU7NKdpb6sw==}
+    engines: {node: '>= 0.4'}
 
   to-regex-range@5.0.1:
     resolution: {integrity: sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==}
@@ -8586,6 +8625,7 @@ packages:
   whatwg-encoding@3.1.1:
     resolution: {integrity: sha512-6qN4hJdMwfYBtE3YBTTHhoeuUrDBPZmbQaxWAqSALV/MeEnR5z1xd8UKud2RAkFoPkmB+hli1TZSnyi84xz1vQ==}
     engines: {node: '>=18'}
+    deprecated: Use @exodus/bytes instead for a more spec-conformant and faster implementation
 
   whatwg-mimetype@4.0.0:
     resolution: {integrity: sha512-QaKxh0eNIi2mE9p2vEdzfagOKHCcj1pJ56EEHGQOVxp8r9/iszLUUV7v89x9O1p/T+NlTM5W7jW6+cz4Fq1YVg==}
@@ -9765,15 +9805,15 @@ snapshots:
 
   '@coinbase/wallet-sdk@3.9.3':
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       buffer: 6.0.3
       clsx: 1.2.1
       eth-block-tracker: 7.1.0
       eth-json-rpc-filters: 6.0.1
-      eventemitter3: 5.0.1
+      eventemitter3: 5.0.4
       keccak: 3.0.4
-      preact: 10.26.2
-      sha.js: 2.4.11
+      preact: 10.28.2
+      sha.js: 2.4.12
     transitivePeerDependencies:
       - supports-color
 
@@ -10024,7 +10064,7 @@ snapshots:
       docker-compose: 1.2.0
       dotenv: 16.5.0
       dunai: 0.0.0-dev.2
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       picocolors: 1.1.1
       tar-fs: 3.0.9
       wait-on: 8.0.2
@@ -10245,7 +10285,7 @@ snapshots:
       globals: 13.24.0
       ignore: 5.3.2
       import-fresh: 3.3.1
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       minimatch: 3.1.2
       strip-json-comments: 3.1.1
     transitivePeerDependencies:
@@ -10337,7 +10377,7 @@ snapshots:
     dependencies:
       '@ethersproject/bytes': 5.7.0
       '@ethersproject/logger': 5.7.0
-      bn.js: 5.2.1
+      bn.js: 5.2.2
 
   '@ethersproject/bytes@5.7.0':
     dependencies:
@@ -10470,7 +10510,7 @@ snapshots:
       '@ethersproject/bytes': 5.7.0
       '@ethersproject/logger': 5.7.0
       '@ethersproject/properties': 5.7.0
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       elliptic: 6.5.4
       hash.js: 1.1.7
 
@@ -11014,7 +11054,7 @@ snapshots:
 
   '@metamask/rpc-errors@7.0.2':
     dependencies:
-      '@metamask/utils': 11.8.1
+      '@metamask/utils': 11.9.0
       fast-safe-stringify: 2.1.1
     transitivePeerDependencies:
       - supports-color
@@ -11136,7 +11176,7 @@ snapshots:
 
   '@metamask/superstruct@3.1.0': {}
 
-  '@metamask/utils@11.8.1':
+  '@metamask/utils@11.9.0':
     dependencies:
       '@ethereumjs/tx': 4.2.0
       '@metamask/superstruct': 3.1.0
@@ -11956,135 +11996,135 @@ snapshots:
 
   '@socket.io/component-emitter@3.1.2': {}
 
-  '@socketregistry/aggregate-error@1.0.11': {}
+  '@socketregistry/aggregate-error@1.0.15': {}
 
-  '@socketregistry/array-buffer-byte-length@1.0.5': {}
+  '@socketregistry/array-buffer-byte-length@1.0.7': {}
 
-  '@socketregistry/array-includes@1.0.5': {}
+  '@socketregistry/array-includes@1.0.9': {}
 
-  '@socketregistry/array.prototype.findlast@1.0.5': {}
+  '@socketregistry/array.prototype.findlast@1.0.9': {}
 
-  '@socketregistry/array.prototype.findlastindex@1.0.5': {}
+  '@socketregistry/array.prototype.findlastindex@1.0.9': {}
 
-  '@socketregistry/array.prototype.flat@1.0.5': {}
+  '@socketregistry/array.prototype.flat@1.0.9': {}
 
-  '@socketregistry/array.prototype.flatmap@1.0.5': {}
+  '@socketregistry/array.prototype.flatmap@1.0.9': {}
 
-  '@socketregistry/array.prototype.tosorted@1.0.6': {}
+  '@socketregistry/array.prototype.tosorted@1.0.10': {}
 
-  '@socketregistry/arraybuffer.prototype.slice@1.0.5': {}
+  '@socketregistry/arraybuffer.prototype.slice@1.0.8': {}
 
-  '@socketregistry/available-typed-arrays@1.0.5': {}
+  '@socketregistry/available-typed-arrays@1.0.8': {}
 
-  '@socketregistry/define-properties@1.0.5': {}
+  '@socketregistry/define-properties@1.0.8': {}
 
-  '@socketregistry/es-define-property@1.0.5': {}
+  '@socketregistry/es-define-property@1.0.7': {}
 
-  '@socketregistry/es-iterator-helpers@1.0.9': {}
+  '@socketregistry/es-iterator-helpers@1.0.14': {}
 
-  '@socketregistry/es-set-tostringtag@1.0.6': {}
+  '@socketregistry/es-set-tostringtag@1.0.10': {}
 
-  '@socketregistry/function-bind@1.0.5': {}
+  '@socketregistry/function-bind@1.0.7': {}
 
-  '@socketregistry/function.prototype.name@1.0.5': {}
+  '@socketregistry/function.prototype.name@1.0.8': {}
 
-  '@socketregistry/get-symbol-description@1.0.5': {}
+  '@socketregistry/get-symbol-description@1.0.7': {}
 
-  '@socketregistry/globalthis@1.0.5': {}
+  '@socketregistry/globalthis@1.0.8': {}
 
-  '@socketregistry/gopd@1.0.5': {}
+  '@socketregistry/gopd@1.0.7': {}
 
-  '@socketregistry/has-property-descriptors@1.0.5': {}
+  '@socketregistry/has-property-descriptors@1.0.7': {}
 
-  '@socketregistry/has-proto@1.0.5': {}
+  '@socketregistry/has-proto@1.0.7': {}
 
-  '@socketregistry/has-symbols@1.0.5': {}
+  '@socketregistry/has-symbols@1.0.7': {}
 
-  '@socketregistry/hasown@1.0.5': {}
+  '@socketregistry/hasown@1.0.7': {}
 
-  '@socketregistry/indent-string@1.0.10': {}
+  '@socketregistry/indent-string@1.0.14': {}
 
-  '@socketregistry/internal-slot@1.0.5': {}
+  '@socketregistry/internal-slot@1.0.8': {}
 
-  '@socketregistry/is-arguments@1.0.6': {}
+  '@socketregistry/is-arguments@1.0.10': {}
 
-  '@socketregistry/is-array-buffer@1.0.6': {}
+  '@socketregistry/is-array-buffer@1.0.10': {}
 
-  '@socketregistry/is-core-module@1.0.7': {}
+  '@socketregistry/is-core-module@1.0.11': {}
 
-  '@socketregistry/is-date-object@1.0.6': {}
+  '@socketregistry/is-date-object@1.0.10': {}
 
-  '@socketregistry/is-generator-function@1.0.6': {}
+  '@socketregistry/is-generator-function@1.0.10': {}
 
   '@socketregistry/is-interactive@1.0.6': {}
 
-  '@socketregistry/is-regex@1.0.6': {}
+  '@socketregistry/is-regex@1.0.10': {}
 
-  '@socketregistry/is-shared-array-buffer@1.0.6': {}
+  '@socketregistry/is-shared-array-buffer@1.0.10': {}
 
-  '@socketregistry/is-string@1.0.6': {}
+  '@socketregistry/is-string@1.0.12': {}
 
-  '@socketregistry/is-symbol@1.0.6': {}
+  '@socketregistry/is-symbol@1.0.12': {}
 
-  '@socketregistry/is-typed-array@1.0.6': {}
+  '@socketregistry/is-typed-array@1.0.12': {}
 
-  '@socketregistry/is-unicode-supported@1.0.0': {}
+  '@socketregistry/is-unicode-supported@1.0.5': {}
 
-  '@socketregistry/is-weakref@1.0.5': {}
+  '@socketregistry/is-weakref@1.0.8': {}
 
-  '@socketregistry/isarray@1.0.5': {}
+  '@socketregistry/isarray@1.0.8': {}
 
-  '@socketregistry/object-assign@1.0.3': {}
+  '@socketregistry/object-assign@1.0.5': {}
 
-  '@socketregistry/object-keys@1.0.5': {}
+  '@socketregistry/object-keys@1.0.8': {}
 
-  '@socketregistry/object.assign@1.0.5': {}
+  '@socketregistry/object.assign@1.0.8': {}
 
-  '@socketregistry/object.entries@1.0.5': {}
+  '@socketregistry/object.entries@1.0.8': {}
 
-  '@socketregistry/object.fromentries@1.0.5': {}
+  '@socketregistry/object.fromentries@1.0.8': {}
 
-  '@socketregistry/object.groupby@1.0.6': {}
+  '@socketregistry/object.groupby@1.0.9': {}
 
-  '@socketregistry/object.values@1.0.5': {}
+  '@socketregistry/object.values@1.0.8': {}
 
-  '@socketregistry/path-parse@1.0.5': {}
+  '@socketregistry/path-parse@1.0.8': {}
 
-  '@socketregistry/querystringify@1.0.6': {}
+  '@socketregistry/querystringify@1.0.10': {}
 
-  '@socketregistry/regexp.prototype.flags@1.0.5': {}
+  '@socketregistry/regexp.prototype.flags@1.0.8': {}
 
-  '@socketregistry/safe-array-concat@1.0.5': {}
+  '@socketregistry/safe-array-concat@1.0.8': {}
 
-  '@socketregistry/safe-buffer@1.0.6': {}
+  '@socketregistry/safe-buffer@1.0.9': {}
 
-  '@socketregistry/safe-regex-test@1.0.5': {}
+  '@socketregistry/safe-regex-test@1.0.8': {}
 
-  '@socketregistry/safer-buffer@1.0.7': {}
+  '@socketregistry/safer-buffer@1.0.10': {}
 
-  '@socketregistry/set-function-length@1.0.6': {}
+  '@socketregistry/set-function-length@1.0.10': {}
 
-  '@socketregistry/side-channel@1.0.7': {}
+  '@socketregistry/side-channel@1.0.10': {}
 
-  '@socketregistry/string.prototype.matchall@1.0.5': {}
+  '@socketregistry/string.prototype.matchall@1.0.8': {}
 
-  '@socketregistry/string.prototype.trim@1.0.5': {}
+  '@socketregistry/string.prototype.trim@1.0.8': {}
 
-  '@socketregistry/string.prototype.trimend@1.0.5': {}
+  '@socketregistry/string.prototype.trimend@1.0.8': {}
 
-  '@socketregistry/string.prototype.trimstart@1.0.5': {}
+  '@socketregistry/string.prototype.trimstart@1.0.8': {}
 
-  '@socketregistry/typed-array-buffer@1.0.5': {}
+  '@socketregistry/typed-array-buffer@1.0.7': {}
 
-  '@socketregistry/typed-array-byte-length@1.0.5': {}
+  '@socketregistry/typed-array-byte-length@1.0.7': {}
 
-  '@socketregistry/typed-array-byte-offset@1.0.5': {}
+  '@socketregistry/typed-array-byte-offset@1.0.7': {}
 
-  '@socketregistry/typed-array-length@1.0.5': {}
+  '@socketregistry/typed-array-length@1.0.8': {}
 
-  '@socketregistry/unbox-primitive@1.0.5': {}
+  '@socketregistry/unbox-primitive@1.0.9': {}
 
-  '@socketregistry/which-typed-array@1.0.5': {}
+  '@socketregistry/which-typed-array@1.0.9': {}
 
   '@solana-program/compute-budget@0.8.0(@solana/kit@2.3.0(typescript@5.7.3)(ws@8.18.1(bufferutil@4.0.9)(utf-8-validate@5.0.10)))':
     dependencies:
@@ -12166,7 +12206,7 @@ snapshots:
   '@solana/errors@2.3.0(typescript@5.7.3)':
     dependencies:
       chalk: 5.6.2
-      commander: 14.0.0
+      commander: 14.0.2
       typescript: 5.7.3
 
   '@solana/fast-stable-stringify@2.3.0(typescript@5.7.3)':
@@ -14104,7 +14144,7 @@ snapshots:
 
   base-x@3.0.10:
     dependencies:
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   base-x@5.0.1: {}
 
@@ -14122,7 +14162,7 @@ snapshots:
 
   blakejs@1.2.1: {}
 
-  bn.js@5.2.1: {}
+  bn.js@5.2.2: {}
 
   body-scroll-lock@3.1.5: {}
 
@@ -14165,7 +14205,7 @@ snapshots:
       create-hash: 1.2.0
       evp_bytestokey: 1.0.3
       inherits: 2.0.4
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   browserslist@4.24.4:
     dependencies:
@@ -14186,7 +14226,7 @@ snapshots:
     dependencies:
       bs58: 4.0.1
       create-hash: 1.2.0
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   buffer-from@1.1.2: {}
 
@@ -14225,14 +14265,14 @@ snapshots:
   call-bind-apply-helpers@1.0.2:
     dependencies:
       es-errors: 1.3.0
-      function-bind: '@socketregistry/function-bind@1.0.5'
+      function-bind: '@socketregistry/function-bind@1.0.7'
 
   call-bind@1.0.8:
     dependencies:
       call-bind-apply-helpers: 1.0.2
-      es-define-property: '@socketregistry/es-define-property@1.0.5'
+      es-define-property: '@socketregistry/es-define-property@1.0.7'
       get-intrinsic: 1.3.0
-      set-function-length: '@socketregistry/set-function-length@1.0.6'
+      set-function-length: '@socketregistry/set-function-length@1.0.10'
 
   call-bound@1.0.3:
     dependencies:
@@ -14325,7 +14365,7 @@ snapshots:
   cipher-base@1.0.6:
     dependencies:
       inherits: 2.0.4
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   cli-boxes@2.2.1: {}
 
@@ -14398,7 +14438,11 @@ snapshots:
 
   command-exists@1.2.9: {}
 
+  commander@11.1.0: {}
+
   commander@14.0.0: {}
+
+  commander@14.0.2: {}
 
   commander@4.1.1: {}
 
@@ -14413,7 +14457,7 @@ snapshots:
       chalk: 4.1.2
       lodash: 4.17.21
       rxjs: 7.8.2
-      shell-quote: 1.8.2
+      shell-quote: 1.8.3
       supports-color: 8.1.1
       tree-kill: 1.2.2
       yargs: 17.7.2
@@ -14457,7 +14501,7 @@ snapshots:
   cosmiconfig@8.3.6(typescript@5.7.3):
     dependencies:
       import-fresh: 3.3.1
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       parse-json: 5.2.0
       path-type: 4.0.0
     optionalDependencies:
@@ -14467,7 +14511,7 @@ snapshots:
     dependencies:
       env-paths: 2.2.1
       import-fresh: 3.3.1
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       parse-json: 5.2.0
     optionalDependencies:
       typescript: 5.7.3
@@ -14488,7 +14532,7 @@ snapshots:
       create-hash: 1.2.0
       inherits: 2.0.4
       ripemd160: 2.0.2
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       sha.js: 2.4.11
 
   create-require@1.1.1: {}
@@ -14765,7 +14809,7 @@ snapshots:
     dependencies:
       call-bind-apply-helpers: 1.0.2
       es-errors: 1.3.0
-      gopd: '@socketregistry/gopd@1.0.5'
+      gopd: '@socketregistry/gopd@1.0.7'
 
   duplexer@0.1.2: {}
 
@@ -14800,7 +14844,7 @@ snapshots:
 
   elliptic@6.5.4:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       brorand: 1.1.0
       hash.js: 1.1.7
       hmac-drbg: 1.0.1
@@ -14810,7 +14854,7 @@ snapshots:
 
   elliptic@6.6.1:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       brorand: 1.1.0
       hash.js: 1.1.7
       hmac-drbg: 1.0.1
@@ -14879,57 +14923,57 @@ snapshots:
 
   es-abstract@1.23.9:
     dependencies:
-      array-buffer-byte-length: '@socketregistry/array-buffer-byte-length@1.0.5'
-      arraybuffer.prototype.slice: '@socketregistry/arraybuffer.prototype.slice@1.0.5'
-      available-typed-arrays: '@socketregistry/available-typed-arrays@1.0.5'
+      array-buffer-byte-length: '@socketregistry/array-buffer-byte-length@1.0.7'
+      arraybuffer.prototype.slice: '@socketregistry/arraybuffer.prototype.slice@1.0.8'
+      available-typed-arrays: '@socketregistry/available-typed-arrays@1.0.8'
       call-bind: 1.0.8
       call-bound: 1.0.3
       data-view-buffer: 1.0.2
       data-view-byte-length: 1.0.2
       data-view-byte-offset: 1.0.1
-      es-define-property: '@socketregistry/es-define-property@1.0.5'
+      es-define-property: '@socketregistry/es-define-property@1.0.7'
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
-      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.6'
+      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.10'
       es-to-primitive: 1.3.0
-      function.prototype.name: '@socketregistry/function.prototype.name@1.0.5'
+      function.prototype.name: '@socketregistry/function.prototype.name@1.0.8'
       get-intrinsic: 1.3.0
       get-proto: 1.0.1
-      get-symbol-description: '@socketregistry/get-symbol-description@1.0.5'
-      globalthis: '@socketregistry/globalthis@1.0.5'
-      gopd: '@socketregistry/gopd@1.0.5'
-      has-property-descriptors: '@socketregistry/has-property-descriptors@1.0.5'
-      has-proto: '@socketregistry/has-proto@1.0.5'
-      has-symbols: '@socketregistry/has-symbols@1.0.5'
-      hasown: '@socketregistry/hasown@1.0.5'
-      internal-slot: '@socketregistry/internal-slot@1.0.5'
-      is-array-buffer: '@socketregistry/is-array-buffer@1.0.6'
+      get-symbol-description: '@socketregistry/get-symbol-description@1.0.7'
+      globalthis: '@socketregistry/globalthis@1.0.8'
+      gopd: '@socketregistry/gopd@1.0.7'
+      has-property-descriptors: '@socketregistry/has-property-descriptors@1.0.7'
+      has-proto: '@socketregistry/has-proto@1.0.7'
+      has-symbols: '@socketregistry/has-symbols@1.0.7'
+      hasown: '@socketregistry/hasown@1.0.7'
+      internal-slot: '@socketregistry/internal-slot@1.0.8'
+      is-array-buffer: '@socketregistry/is-array-buffer@1.0.10'
       is-callable: 1.2.7
       is-data-view: 1.0.2
-      is-regex: '@socketregistry/is-regex@1.0.6'
-      is-shared-array-buffer: '@socketregistry/is-shared-array-buffer@1.0.6'
-      is-string: '@socketregistry/is-string@1.0.6'
-      is-typed-array: '@socketregistry/is-typed-array@1.0.6'
-      is-weakref: '@socketregistry/is-weakref@1.0.5'
+      is-regex: '@socketregistry/is-regex@1.0.10'
+      is-shared-array-buffer: '@socketregistry/is-shared-array-buffer@1.0.10'
+      is-string: '@socketregistry/is-string@1.0.12'
+      is-typed-array: '@socketregistry/is-typed-array@1.0.12'
+      is-weakref: '@socketregistry/is-weakref@1.0.8'
       math-intrinsics: 1.1.0
       object-inspect: 1.13.4
-      object-keys: '@socketregistry/object-keys@1.0.5'
-      object.assign: '@socketregistry/object.assign@1.0.5'
+      object-keys: '@socketregistry/object-keys@1.0.8'
+      object.assign: '@socketregistry/object.assign@1.0.8'
       own-keys: 1.0.1
-      regexp.prototype.flags: '@socketregistry/regexp.prototype.flags@1.0.5'
-      safe-array-concat: '@socketregistry/safe-array-concat@1.0.5'
+      regexp.prototype.flags: '@socketregistry/regexp.prototype.flags@1.0.8'
+      safe-array-concat: '@socketregistry/safe-array-concat@1.0.8'
       safe-push-apply: 1.0.0
-      safe-regex-test: '@socketregistry/safe-regex-test@1.0.5'
+      safe-regex-test: '@socketregistry/safe-regex-test@1.0.8'
       set-proto: 1.0.0
-      string.prototype.trim: '@socketregistry/string.prototype.trim@1.0.5'
-      string.prototype.trimend: '@socketregistry/string.prototype.trimend@1.0.5'
-      string.prototype.trimstart: '@socketregistry/string.prototype.trimstart@1.0.5'
-      typed-array-buffer: '@socketregistry/typed-array-buffer@1.0.5'
-      typed-array-byte-length: '@socketregistry/typed-array-byte-length@1.0.5'
-      typed-array-byte-offset: '@socketregistry/typed-array-byte-offset@1.0.5'
-      typed-array-length: '@socketregistry/typed-array-length@1.0.5'
-      unbox-primitive: '@socketregistry/unbox-primitive@1.0.5'
-      which-typed-array: '@socketregistry/which-typed-array@1.0.5'
+      string.prototype.trim: '@socketregistry/string.prototype.trim@1.0.8'
+      string.prototype.trimend: '@socketregistry/string.prototype.trimend@1.0.8'
+      string.prototype.trimstart: '@socketregistry/string.prototype.trimstart@1.0.8'
+      typed-array-buffer: '@socketregistry/typed-array-buffer@1.0.7'
+      typed-array-byte-length: '@socketregistry/typed-array-byte-length@1.0.7'
+      typed-array-byte-offset: '@socketregistry/typed-array-byte-offset@1.0.7'
+      typed-array-length: '@socketregistry/typed-array-length@1.0.8'
+      unbox-primitive: '@socketregistry/unbox-primitive@1.0.9'
+      which-typed-array: '@socketregistry/which-typed-array@1.0.9'
 
   es-errors@1.3.0: {}
 
@@ -14942,8 +14986,8 @@ snapshots:
   es-to-primitive@1.3.0:
     dependencies:
       is-callable: 1.2.7
-      is-date-object: '@socketregistry/is-date-object@1.0.6'
-      is-symbol: '@socketregistry/is-symbol@1.0.6'
+      is-date-object: '@socketregistry/is-date-object@1.0.10'
+      is-symbol: '@socketregistry/is-symbol@1.0.12'
 
   es-toolkit@1.39.3: {}
 
@@ -15011,8 +15055,8 @@ snapshots:
       confusing-browser-globals: 1.0.11
       eslint: 8.50.0
       eslint-plugin-import: 2.31.0(@typescript-eslint/parser@6.21.0(eslint@8.50.0)(typescript@5.7.3))(eslint-import-resolver-typescript@3.8.3)(eslint@8.50.0)
-      object.assign: '@socketregistry/object.assign@1.0.5'
-      object.entries: '@socketregistry/object.entries@1.0.5'
+      object.assign: '@socketregistry/object.assign@1.0.8'
+      object.entries: '@socketregistry/object.entries@1.0.8'
       semver: 6.3.1
 
   eslint-config-airbnb-typescript@17.1.0(@typescript-eslint/eslint-plugin@6.21.0(@typescript-eslint/parser@6.21.0(eslint@8.50.0)(typescript@5.7.3))(eslint@8.50.0)(typescript@5.7.3))(@typescript-eslint/parser@6.21.0(eslint@8.50.0)(typescript@5.7.3))(eslint-plugin-import@2.31.0)(eslint@8.50.0):
@@ -15031,8 +15075,8 @@ snapshots:
       eslint-plugin-jsx-a11y: 6.10.2(eslint@8.50.0)
       eslint-plugin-react: 7.37.4(eslint@8.50.0)
       eslint-plugin-react-hooks: 4.6.2(eslint@8.50.0)
-      object.assign: '@socketregistry/object.assign@1.0.5'
-      object.entries: '@socketregistry/object.entries@1.0.5'
+      object.assign: '@socketregistry/object.assign@1.0.8'
+      object.entries: '@socketregistry/object.entries@1.0.8'
 
   eslint-config-next@13.5.8(eslint@8.50.0)(typescript@5.7.3):
     dependencies:
@@ -15060,7 +15104,7 @@ snapshots:
   eslint-import-resolver-node@0.3.9:
     dependencies:
       debug: 3.2.7
-      is-core-module: '@socketregistry/is-core-module@1.0.7'
+      is-core-module: '@socketregistry/is-core-module@1.0.11'
       resolve: 1.22.10
     transitivePeerDependencies:
       - supports-color
@@ -15094,24 +15138,24 @@ snapshots:
   eslint-plugin-import@2.31.0(@typescript-eslint/parser@6.21.0(eslint@8.50.0)(typescript@5.7.3))(eslint-import-resolver-typescript@3.8.3)(eslint@8.50.0):
     dependencies:
       '@rtsao/scc': 1.1.0
-      array-includes: '@socketregistry/array-includes@1.0.5'
-      array.prototype.findlastindex: '@socketregistry/array.prototype.findlastindex@1.0.5'
-      array.prototype.flat: '@socketregistry/array.prototype.flat@1.0.5'
-      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.5'
+      array-includes: '@socketregistry/array-includes@1.0.9'
+      array.prototype.findlastindex: '@socketregistry/array.prototype.findlastindex@1.0.9'
+      array.prototype.flat: '@socketregistry/array.prototype.flat@1.0.9'
+      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.9'
       debug: 3.2.7
       doctrine: 2.1.0
       eslint: 8.50.0
       eslint-import-resolver-node: 0.3.9
       eslint-module-utils: 2.12.0(@typescript-eslint/parser@6.21.0(eslint@8.50.0)(typescript@5.7.3))(eslint-import-resolver-node@0.3.9)(eslint-import-resolver-typescript@3.8.3)(eslint@8.50.0)
-      hasown: '@socketregistry/hasown@1.0.5'
-      is-core-module: '@socketregistry/is-core-module@1.0.7'
+      hasown: '@socketregistry/hasown@1.0.7'
+      is-core-module: '@socketregistry/is-core-module@1.0.11'
       is-glob: 4.0.3
       minimatch: 3.1.2
-      object.fromentries: '@socketregistry/object.fromentries@1.0.5'
-      object.groupby: '@socketregistry/object.groupby@1.0.6'
-      object.values: '@socketregistry/object.values@1.0.5'
+      object.fromentries: '@socketregistry/object.fromentries@1.0.8'
+      object.groupby: '@socketregistry/object.groupby@1.0.9'
+      object.values: '@socketregistry/object.values@1.0.8'
       semver: 6.3.1
-      string.prototype.trimend: '@socketregistry/string.prototype.trimend@1.0.5'
+      string.prototype.trimend: '@socketregistry/string.prototype.trimend@1.0.8'
       tsconfig-paths: 3.15.0
     optionalDependencies:
       '@typescript-eslint/parser': 6.21.0(eslint@8.50.0)(typescript@5.7.3)
@@ -15123,20 +15167,20 @@ snapshots:
   eslint-plugin-jsx-a11y@6.10.2(eslint@8.50.0):
     dependencies:
       aria-query: 5.3.2
-      array-includes: '@socketregistry/array-includes@1.0.5'
-      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.5'
+      array-includes: '@socketregistry/array-includes@1.0.9'
+      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.9'
       ast-types-flow: 0.0.8
       axe-core: 4.10.2
       axobject-query: 4.1.0
       damerau-levenshtein: 1.0.8
       emoji-regex: 9.2.2
       eslint: 8.50.0
-      hasown: '@socketregistry/hasown@1.0.5'
+      hasown: '@socketregistry/hasown@1.0.7'
       jsx-ast-utils: 3.3.5
       language-tags: 1.0.9
       minimatch: 3.1.2
-      object.fromentries: '@socketregistry/object.fromentries@1.0.5'
-      safe-regex-test: '@socketregistry/safe-regex-test@1.0.5'
+      object.fromentries: '@socketregistry/object.fromentries@1.0.8'
+      safe-regex-test: '@socketregistry/safe-regex-test@1.0.8'
       string.prototype.includes: 2.0.1
 
   eslint-plugin-prettier@5.2.3(eslint-config-prettier@9.1.0(eslint@8.50.0))(eslint@8.50.0)(prettier@3.0.3):
@@ -15154,24 +15198,24 @@ snapshots:
 
   eslint-plugin-react@7.37.4(eslint@8.50.0):
     dependencies:
-      array-includes: '@socketregistry/array-includes@1.0.5'
-      array.prototype.findlast: '@socketregistry/array.prototype.findlast@1.0.5'
-      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.5'
-      array.prototype.tosorted: '@socketregistry/array.prototype.tosorted@1.0.6'
+      array-includes: '@socketregistry/array-includes@1.0.9'
+      array.prototype.findlast: '@socketregistry/array.prototype.findlast@1.0.9'
+      array.prototype.flatmap: '@socketregistry/array.prototype.flatmap@1.0.9'
+      array.prototype.tosorted: '@socketregistry/array.prototype.tosorted@1.0.10'
       doctrine: 2.1.0
-      es-iterator-helpers: '@socketregistry/es-iterator-helpers@1.0.9'
+      es-iterator-helpers: '@socketregistry/es-iterator-helpers@1.0.14'
       eslint: 8.50.0
       estraverse: 5.3.0
-      hasown: '@socketregistry/hasown@1.0.5'
+      hasown: '@socketregistry/hasown@1.0.7'
       jsx-ast-utils: 3.3.5
       minimatch: 3.1.2
-      object.entries: '@socketregistry/object.entries@1.0.5'
-      object.fromentries: '@socketregistry/object.fromentries@1.0.5'
-      object.values: '@socketregistry/object.values@1.0.5'
+      object.entries: '@socketregistry/object.entries@1.0.8'
+      object.fromentries: '@socketregistry/object.fromentries@1.0.8'
+      object.values: '@socketregistry/object.values@1.0.8'
       prop-types: 15.8.1
       resolve: 2.0.0-next.5
       semver: 6.3.1
-      string.prototype.matchall: '@socketregistry/string.prototype.matchall@1.0.5'
+      string.prototype.matchall: '@socketregistry/string.prototype.matchall@1.0.8'
       string.prototype.repeat: 1.0.0
 
   eslint-plugin-testing-library@6.5.0(eslint@8.50.0)(typescript@5.7.3):
@@ -15235,7 +15279,7 @@ snapshots:
       imurmurhash: 0.1.4
       is-glob: 4.0.3
       is-path-inside: 3.0.3
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       json-stable-stringify-without-jsonify: 1.0.1
       levn: 0.4.1
       lodash.merge: 4.6.2
@@ -15317,7 +15361,7 @@ snapshots:
       keccak: 3.0.4
       pbkdf2: 3.1.2
       randombytes: 2.1.0
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       scrypt-js: 3.0.1
       secp256k1: 4.0.4
       setimmediate: 1.0.5
@@ -15338,13 +15382,13 @@ snapshots:
 
   ethereumjs-abi@0.6.8:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       ethereumjs-util: 6.2.1
 
   ethereumjs-util@6.2.1:
     dependencies:
       '@types/bn.js': 4.11.6
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       create-hash: 1.2.0
       elliptic: 6.6.1
       ethereum-cryptography: 0.1.3
@@ -15402,7 +15446,7 @@ snapshots:
 
   ethjs-unit@0.1.6:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       number-to-bn: 1.7.0
 
   ethjs-util@0.1.6:
@@ -15414,12 +15458,14 @@ snapshots:
 
   eventemitter3@5.0.1: {}
 
+  eventemitter3@5.0.4: {}
+
   events@3.3.0: {}
 
   evp_bytestokey@1.0.3:
     dependencies:
       md5.js: 1.3.5
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   exit-hook@2.2.1: {}
 
@@ -15534,7 +15580,7 @@ snapshots:
     dependencies:
       asynckit: 0.4.0
       combined-stream: 1.0.8
-      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.6'
+      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.10'
       mime-types: 2.1.35
 
   formdata-polyfill@4.0.10:
@@ -15590,14 +15636,14 @@ snapshots:
   get-intrinsic@1.3.0:
     dependencies:
       call-bind-apply-helpers: 1.0.2
-      es-define-property: '@socketregistry/es-define-property@1.0.5'
+      es-define-property: '@socketregistry/es-define-property@1.0.7'
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
-      function-bind: '@socketregistry/function-bind@1.0.5'
+      function-bind: '@socketregistry/function-bind@1.0.7'
       get-proto: 1.0.1
-      gopd: '@socketregistry/gopd@1.0.5'
-      has-symbols: '@socketregistry/has-symbols@1.0.5'
-      hasown: '@socketregistry/hasown@1.0.5'
+      gopd: '@socketregistry/gopd@1.0.7'
+      has-symbols: '@socketregistry/has-symbols@1.0.7'
+      hasown: '@socketregistry/hasown@1.0.7'
       math-intrinsics: 1.1.0
 
   get-nonce@1.0.1: {}
@@ -15775,7 +15821,7 @@ snapshots:
       '@types/bn.js': 5.1.6
       '@types/lru-cache': 5.1.1
       adm-zip: 0.4.16
-      aggregate-error: '@socketregistry/aggregate-error@1.0.11'
+      aggregate-error: '@socketregistry/aggregate-error@1.0.15'
       ansi-escapes: 4.3.2
       boxen: 5.1.2
       chokidar: 4.0.3
@@ -15825,7 +15871,7 @@ snapshots:
     dependencies:
       inherits: 2.0.4
       readable-stream: 3.6.2
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   hash-test-vectors@1.3.2: {}
 
@@ -15921,11 +15967,11 @@ snapshots:
 
   iconv-lite@0.4.24:
     dependencies:
-      safer-buffer: '@socketregistry/safer-buffer@1.0.7'
+      safer-buffer: '@socketregistry/safer-buffer@1.0.10'
 
   iconv-lite@0.6.3:
     dependencies:
-      safer-buffer: '@socketregistry/safer-buffer@1.0.7'
+      safer-buffer: '@socketregistry/safer-buffer@1.0.10'
 
   idb-keyval@6.2.1: {}
 
@@ -16001,7 +16047,7 @@ snapshots:
     dependencies:
       call-bound: 1.0.3
       get-intrinsic: 1.3.0
-      is-typed-array: '@socketregistry/is-typed-array@1.0.6'
+      is-typed-array: '@socketregistry/is-typed-array@1.0.12'
 
   is-docker@2.2.1: {}
 
@@ -16132,7 +16178,7 @@ snapshots:
 
   js-tokens@4.0.0: {}
 
-  js-yaml@4.1.0:
+  js-yaml@4.1.1:
     dependencies:
       argparse: 2.0.1
 
@@ -16216,10 +16262,10 @@ snapshots:
 
   jsx-ast-utils@3.3.5:
     dependencies:
-      array-includes: '@socketregistry/array-includes@1.0.5'
-      array.prototype.flat: '@socketregistry/array.prototype.flat@1.0.5'
-      object.assign: '@socketregistry/object.assign@1.0.5'
-      object.values: '@socketregistry/object.values@1.0.5'
+      array-includes: '@socketregistry/array-includes@1.0.9'
+      array.prototype.flat: '@socketregistry/array.prototype.flat@1.0.9'
+      object.assign: '@socketregistry/object.assign@1.0.8'
+      object.values: '@socketregistry/object.values@1.0.8'
 
   keccak@3.0.4:
     dependencies:
@@ -16250,7 +16296,7 @@ snapshots:
       enhanced-resolve: 5.18.1
       fast-glob: 3.3.3
       jiti: 2.4.2
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       minimist: 1.2.8
       picocolors: 1.1.1
       picomatch: 4.0.2
@@ -16322,12 +16368,12 @@ snapshots:
   log-symbols@4.1.0:
     dependencies:
       chalk: 4.1.2
-      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.0'
+      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.5'
 
   log-symbols@6.0.0:
     dependencies:
       chalk: 5.6.2
-      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.0'
+      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.5'
 
   loose-envify@1.4.0:
     dependencies:
@@ -16387,7 +16433,7 @@ snapshots:
     dependencies:
       hash-base: 3.1.0
       inherits: 2.0.4
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   mdn-data@2.0.14: {}
 
@@ -16495,7 +16541,7 @@ snapshots:
       find-up: 5.0.0
       glob: 8.1.0
       he: 1.2.0
-      js-yaml: 4.1.0
+      js-yaml: 4.1.1
       log-symbols: 4.1.0
       minimatch: 5.1.6
       ms: 2.1.3
@@ -16669,7 +16715,7 @@ snapshots:
 
   number-to-bn@1.7.0:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       strip-hex-prefix: 1.0.0
 
   nwsapi@2.2.16: {}
@@ -16738,7 +16784,7 @@ snapshots:
       cli-cursor: 5.0.0
       cli-spinners: 2.9.2
       is-interactive: '@socketregistry/is-interactive@1.0.6'
-      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.0'
+      is-unicode-supported: '@socketregistry/is-unicode-supported@1.0.5'
       log-symbols: 6.0.0
       stdin-discarder: 0.2.2
       string-width: 7.2.0
@@ -16751,7 +16797,7 @@ snapshots:
   own-keys@1.0.1:
     dependencies:
       get-intrinsic: 1.3.0
-      object-keys: '@socketregistry/object-keys@1.0.5'
+      object-keys: '@socketregistry/object-keys@1.0.8'
       safe-push-apply: 1.0.0
 
   ox@0.6.9(typescript@5.7.3)(zod@3.25.75):
@@ -16845,7 +16891,7 @@ snapshots:
 
   p-map@4.0.0:
     dependencies:
-      aggregate-error: '@socketregistry/aggregate-error@1.0.11'
+      aggregate-error: '@socketregistry/aggregate-error@1.0.15'
 
   p-try@2.2.0: {}
 
@@ -16898,7 +16944,7 @@ snapshots:
       create-hash: 1.2.0
       create-hmac: 1.1.7
       ripemd160: 2.0.2
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       sha.js: 2.4.11
 
   picocolors@1.1.1: {}
@@ -17020,6 +17066,8 @@ snapshots:
 
   preact@10.26.2: {}
 
+  preact@10.28.2: {}
+
   prelude-ls@1.2.1: {}
 
   prettier-linter-helpers@1.0.0:
@@ -17054,7 +17102,7 @@ snapshots:
   prop-types@15.8.1:
     dependencies:
       loose-envify: 1.4.0
-      object-assign: '@socketregistry/object-assign@1.0.3'
+      object-assign: '@socketregistry/object-assign@1.0.5'
       react-is: 16.13.1
 
   proxy-compare@2.5.1: {}
@@ -17101,7 +17149,7 @@ snapshots:
 
   qs@6.14.0:
     dependencies:
-      side-channel: '@socketregistry/side-channel@1.0.7'
+      side-channel: '@socketregistry/side-channel@1.0.10'
 
   query-string@7.1.3:
     dependencies:
@@ -17118,7 +17166,7 @@ snapshots:
 
   randombytes@2.1.0:
     dependencies:
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   raw-body@2.5.2:
     dependencies:
@@ -17257,9 +17305,9 @@ snapshots:
     dependencies:
       core-util-is: 1.0.3
       inherits: 2.0.4
-      isarray: '@socketregistry/isarray@1.0.5'
+      isarray: '@socketregistry/isarray@1.0.8'
       process-nextick-args: 1.0.7
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       string_decoder: 1.0.3
       util-deprecate: 1.0.2
 
@@ -17267,9 +17315,9 @@ snapshots:
     dependencies:
       core-util-is: 1.0.3
       inherits: 2.0.4
-      isarray: '@socketregistry/isarray@1.0.5'
+      isarray: '@socketregistry/isarray@1.0.8'
       process-nextick-args: 2.0.1
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       string_decoder: 1.1.1
       util-deprecate: 1.0.2
 
@@ -17291,7 +17339,7 @@ snapshots:
 
   redent@3.0.0:
     dependencies:
-      indent-string: '@socketregistry/indent-string@1.0.10'
+      indent-string: '@socketregistry/indent-string@1.0.14'
       strip-indent: 3.0.0
 
   regenerate-unicode-properties@10.2.0:
@@ -17339,18 +17387,18 @@ snapshots:
 
   resolve@1.17.0:
     dependencies:
-      path-parse: '@socketregistry/path-parse@1.0.5'
+      path-parse: '@socketregistry/path-parse@1.0.8'
 
   resolve@1.22.10:
     dependencies:
-      is-core-module: '@socketregistry/is-core-module@1.0.7'
-      path-parse: '@socketregistry/path-parse@1.0.5'
+      is-core-module: '@socketregistry/is-core-module@1.0.11'
+      path-parse: '@socketregistry/path-parse@1.0.8'
       supports-preserve-symlinks-flag: 1.0.0
 
   resolve@2.0.0-next.5:
     dependencies:
-      is-core-module: '@socketregistry/is-core-module@1.0.7'
-      path-parse: '@socketregistry/path-parse@1.0.5'
+      is-core-module: '@socketregistry/is-core-module@1.0.11'
+      path-parse: '@socketregistry/path-parse@1.0.8'
       supports-preserve-symlinks-flag: 1.0.0
 
   restore-cursor@5.1.0:
@@ -17371,7 +17419,7 @@ snapshots:
 
   rlp@2.2.7:
     dependencies:
-      bn.js: 5.2.1
+      bn.js: 5.2.2
 
   rollup-plugin-inject@3.0.2:
     dependencies:
@@ -17442,11 +17490,13 @@ snapshots:
   safe-push-apply@1.0.0:
     dependencies:
       es-errors: 1.3.0
-      isarray: '@socketregistry/isarray@1.0.5'
+      isarray: '@socketregistry/isarray@1.0.8'
 
   safe-stable-stringify@2.5.0: {}
 
   sax@1.4.1: {}
+
+  sax@1.4.4: {}
 
   saxes@6.0.0:
     dependencies:
@@ -17511,7 +17561,13 @@ snapshots:
   sha.js@2.4.11:
     dependencies:
       inherits: 2.0.4
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+
+  sha.js@2.4.12:
+    dependencies:
+      inherits: 2.0.4
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+      to-buffer: 1.2.2
 
   shallowequal@1.1.0: {}
 
@@ -17548,7 +17604,7 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  shell-quote@1.8.2: {}
+  shell-quote@1.8.3: {}
 
   siginfo@2.0.0: {}
 
@@ -17735,25 +17791,25 @@ snapshots:
   string.prototype.includes@2.0.1:
     dependencies:
       call-bind: 1.0.8
-      define-properties: '@socketregistry/define-properties@1.0.5'
+      define-properties: '@socketregistry/define-properties@1.0.8'
       es-abstract: 1.23.9
 
   string.prototype.repeat@1.0.0:
     dependencies:
-      define-properties: '@socketregistry/define-properties@1.0.5'
+      define-properties: '@socketregistry/define-properties@1.0.8'
       es-abstract: 1.23.9
 
   string_decoder@1.0.3:
     dependencies:
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   string_decoder@1.1.1:
     dependencies:
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   string_decoder@1.3.0:
     dependencies:
-      safe-buffer: '@socketregistry/safe-buffer@1.0.6'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
 
   strip-ansi@6.0.1:
     dependencies:
@@ -17922,6 +17978,16 @@ snapshots:
       csso: 5.0.5
       picocolors: 1.1.1
 
+  svgo@4.0.0:
+    dependencies:
+      commander: 11.1.0
+      css-select: 5.1.0
+      css-tree: 3.1.0
+      css-what: 6.1.0
+      csso: 5.0.5
+      picocolors: 1.1.1
+      sax: 1.4.4
+
   symbol-tree@3.2.4: {}
 
   synckit@0.9.2:
@@ -18061,6 +18127,12 @@ snapshots:
   tmp@0.0.33:
     dependencies:
       os-tmpdir: 1.0.2
+
+  to-buffer@1.2.2:
+    dependencies:
+      isarray: '@socketregistry/isarray@1.0.8'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+      typed-array-buffer: '@socketregistry/typed-array-buffer@1.0.7'
 
   to-regex-range@5.0.1:
     dependencies:
@@ -18263,7 +18335,7 @@ snapshots:
 
   url-parse@1.5.10:
     dependencies:
-      querystringify: '@socketregistry/querystringify@1.0.6'
+      querystringify: '@socketregistry/querystringify@1.0.10'
       requires-port: 1.0.0
 
   use-callback-ref@1.3.3(@types/react@18.3.12)(react@18.3.1):
@@ -18305,10 +18377,10 @@ snapshots:
   util@0.12.5:
     dependencies:
       inherits: 2.0.4
-      is-arguments: '@socketregistry/is-arguments@1.0.6'
-      is-generator-function: '@socketregistry/is-generator-function@1.0.6'
-      is-typed-array: '@socketregistry/is-typed-array@1.0.6'
-      which-typed-array: '@socketregistry/which-typed-array@1.0.5'
+      is-arguments: '@socketregistry/is-arguments@1.0.10'
+      is-generator-function: '@socketregistry/is-generator-function@1.0.10'
+      is-typed-array: '@socketregistry/is-typed-array@1.0.12'
+      which-typed-array: '@socketregistry/which-typed-array@1.0.9'
 
   uuid@11.1.0: {}
 
@@ -18606,7 +18678,7 @@ snapshots:
   web3-utils@1.10.4:
     dependencies:
       '@ethereumjs/util': 8.1.0
-      bn.js: 5.2.1
+      bn.js: 5.2.2
       ethereum-bloom-filters: 1.2.0
       ethereum-cryptography: 2.2.1
       ethjs-unit: 0.1.6
@@ -18814,7 +18886,7 @@ snapshots:
 
   xml2js@0.6.2:
     dependencies:
-      sax: 1.4.1
+      sax: 1.4.4
       xmlbuilder: 11.0.1
 
   xmlbuilder@11.0.1: {}
