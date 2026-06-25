@@ -6936,11 +6936,14 @@ packages:
     resolution: {integrity: sha512-906n2RRaE6Y28PfYJbaz5XZeJ6Tw8Xz1S6E31GGwZ0sXB6/XjldD1/2azn1ZmBmRk5PQRkzjg+n+RHZe5xQzWA==}
     peerDependencies:
       next: '>=10.0.0'
-      react: ^18.2.0
-
+      react: ^18.2.0 dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+  next@13.5.8:
+    resolution: {integrity: sha512-VlR7FaXpSibCs7ujOqStaDFTGSdX/NvWgLDcd47oiHUe8i63ZtNkX9intgcYAu/MxpaeEGinHaMB5mwxuzglKw==}
+    engines: {node: '>=16.14.0'}
+    deprecated: This version has a security vulnerability. Please upgrade to a patched version. See https://nextjs.org/blog/security-update-2025-12-11 for more details.
   next@16.1.5:
     resolution: {integrity: sha512-f+wE+NSbiQgh3DSAlTaw2FwY5yGdVViAtp8TotNQj4kk4Q8Bh1sC/aL9aH+Rg1YAVn18OYXsRDT7U/079jgP7w==}
-    engines: {node: '>=20.9.0'}
+    engines: {node: '>=20.9.0'} main
     hasBin: true
     peerDependencies:
       '@opentelemetry/api': ^1.1.0
@@ -7358,10 +7361,11 @@ packages:
     resolution: {integrity: sha512-1cSoF0aCC8uaARATfrlz4VCBqE8LwZwRfLgkxJOQwAlQt6ayTmi0D9OF7nXid1POI5SZidFuG9CnlXbDfLqY/Q==}
 
   preact@10.26.2:
-    resolution: {integrity: sha512-0gNmv4qpS9HaN3+40CLBAnKe0ZfyE4ZWo5xKlC1rVrr0ckkEvJvAQqKaHANdFKsGstoxrY4AItZ7kZSGVoVjgg==}
-
+    resolution: {integrity: sha512-0gNmv4qpS9HaN3+40CLBAnKe0ZfyE4ZWo5xKlC1rVrr0ckkEvJvAQqKaHANdFKsGstoxrY4AItZ7kZSGVoVjgg==} dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+  preact@10.28.2:
+    resolution: {integrity: sha512-lbteaWGzGHdlIuiJ0l2Jq454m6kcpI1zNje6d8MlGAFlYvP2GO4ibnat7P74Esfz4sPTdM6UxtTwh/d3pwM9JA==}
   preact@10.28.3:
-    resolution: {integrity: sha512-tCmoRkPQLpBeWzpmbhryairGnhW9tKV6c6gr/w+RhoRoKEJwsjzipwp//1oCpGPOchvSLaAPlpcJi9MwMmoPyA==}
+    resolution: {integrity: sha512-tCmoRkPQLpBeWzpmbhryairGnhW9tKV6c6gr/w+RhoRoKEJwsjzipwp//1oCpGPOchvSLaAPlpcJi9MwMmoPyA==} main
 
   prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
@@ -7845,6 +7849,11 @@ packages:
 
   setprototypeof@1.2.0:
     resolution: {integrity: sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw==}
+
+  sha.js@2.4.12:
+    resolution: {integrity: sha512-8LzC5+bvI45BjpfXU8V5fdU2mfeKiQe1D1gIMn7XUlF3OTUrpdJpPPH4EMAnF0DsHHdSZqCdSss5qCmJKuiO3w==}
+    engines: {node: '>= 0.10'}
+    hasBin: true
 
   sha.js@2.4.12:
     resolution: {integrity: sha512-8LzC5+bvI45BjpfXU8V5fdU2mfeKiQe1D1gIMn7XUlF3OTUrpdJpPPH4EMAnF0DsHHdSZqCdSss5qCmJKuiO3w==}
@@ -10072,8 +10081,9 @@ snapshots:
       eth-block-tracker: 7.1.0
       eth-json-rpc-filters: 6.0.1
       eventemitter3: 5.0.4
-      keccak: 3.0.4
-      preact: 10.28.3
+      keccak: 3.0.0 dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+      preact: 10.28.2
+      preact: 10.28.3 main
       sha.js: 2.4.12
     transitivePeerDependencies:
       - supports-color
@@ -14908,8 +14918,9 @@ snapshots:
       create-hash: 1.2.0
       inherits: 2.0.4
       ripemd160: 2.0.2
-      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
-      sha.js: 2.4.12
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9' dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+      sha.js: 2.4.11
+      sha.js: 2.4.12 main
 
   create-require@1.1.1: {}
 
@@ -15965,8 +15976,8 @@ snapshots:
     dependencies:
       asynckit: 0.4.0
       combined-stream: 1.0.8
-      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.10'
-      hasown: '@socketregistry/hasown@1.0.7'
+      es-set-tostringtag: '@socketregistry/es-set-tostringtag@1.0.10' dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+      hasown: '@socketregistry/hasown@1.0.7' main
       mime-types: 2.1.35
 
   formdata-polyfill@4.0.10:
@@ -16264,14 +16275,14 @@ snapshots:
     dependencies:
       inherits: 2.0.4
       readable-stream: 3.6.2
-      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9' dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0c
 
   hash-base@3.1.2:
     dependencies:
       inherits: 2.0.4
       readable-stream: 2.3.8
       safe-buffer: '@socketregistry/safe-buffer@1.0.9'
-      to-buffer: 1.2.2
+      to-buffer: 1.2.2 main
 
   hash-test-vectors@1.3.2: {}
 
@@ -17352,11 +17363,14 @@ snapshots:
   pbkdf2@3.1.5:
     dependencies:
       create-hash: 1.2.0
-      create-hmac: 1.1.7
+      create-hmac: 1.1.7 dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+      ripemd160: 2.0.2
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+      sha.js: 2.4.11
       ripemd160: 2.0.3
       safe-buffer: '@socketregistry/safe-buffer@1.0.9'
       sha.js: 2.4.12
-      to-buffer: 1.2.2
+      to-buffer: 1.2.2 main
 
   picocolors@1.1.1: {}
 
@@ -17483,9 +17497,9 @@ snapshots:
 
   preact@10.24.2: {}
 
-  preact@10.26.2: {}
-
-  preact@10.28.3: {}
+  preact@10.26.2: {} dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+  preact@10.28.2: {}
+  preact@10.28.3: {} main
 
   prelude-ls@1.2.1: {}
 
@@ -17991,7 +18005,12 @@ snapshots:
   sha.js@2.4.12:
     dependencies:
       inherits: 2.0.4
-      safe-buffer: '@socketregistry/safe-buffer@1.0.9'
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9 dependabot/npm_and_yarn/npm_and_yarn-eb4f97c0ca
+
+  sha.js@2.4.12:
+    dependencies:
+      inherits: 2.0.4
+      safe-buffer: '@socketregistry/safe-buffer@1.0.9 main
       to-buffer: 1.2.2
 
   shallowequal@1.1.0: {}
